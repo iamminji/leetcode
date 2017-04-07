@@ -1,15 +1,3 @@
-from collections import deque
-
-
-def my_compare(a, b):
-    if int(str(a) + str(b)) > int(str(a) + str(b)):
-        return 1
-    elif int(str(a) + str(b)) < int(str(a) + str(b)):
-        return -1
-    else:
-        return 0
-
-
 class Solution:
     # @param {integer[]} nums
     # @return {string}
