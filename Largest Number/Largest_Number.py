@@ -5,13 +5,13 @@ class Solution:
         result = list()
         for i in range(0, len(nums)):
             for j in range(i, len(nums)):
-                if int(str(nums[i]) + str(nums[j])) > int(str(nums[j]) + str(nums[i])):
+                if int(str(nums[i]) + str(nums[j])) < int(str(nums[j]) + str(nums[i])):
                     nums[i], nums[j] = nums[j], nums[i]
 
         for num in nums:
             result.append(str(num))
 
-        return str(int("".join(result[::-1])))
+        return str(int("".join(result)))
 
 
 if __name__ == "__main__":
