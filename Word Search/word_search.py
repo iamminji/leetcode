@@ -1,5 +1,5 @@
-# https://leetcode.com/problems/word-search/#/description
 # 79. Word Search
+# https://leetcode.com/problems/word-search/#/description
 
 
 class Solution(object):
@@ -30,9 +30,9 @@ class Solution(object):
 
         board[i][j] = "#"
         res = self.check_board(i - 1, j, board, k + 1, word) or \
-              self.check_board(i + 1, j,  board, k + 1, word) or \
-              self.check_board(i, j + 1,  board, k + 1, word) or \
-              self.check_board(i, j -1,  board, k + 1, word)
+              self.check_board(i + 1, j, board, k + 1, word) or \
+              self.check_board(i, j + 1, board, k + 1, word) or \
+              self.check_board(i, j - 1, board, k + 1, word)
         board[i][j] = word[k]
         return res
 

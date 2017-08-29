@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from Coin_Change_2 import Solution
+from coin_change_2 import Solution
 
 
 class LeetCodeTest(TestCase):
