@@ -12,7 +12,7 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        map = defaultdict(list)
+        my_map = defaultdict(list)
         count_dict = defaultdict(int)
 
         max_count = -1
@@ -22,16 +22,16 @@ class Solution(object):
 
         for num, count in count_dict.items():
             max_count = max(count, max_count)
-            map[count].append(num)
+            my_map[count].append(num)
 
         result = list()
 
         while k > 0 and max_count > 0:
-            if max_count not in map:
+            if max_count not in my_map:
                 max_count -= 1
                 continue
 
-            for num in map[max_count]:
+            for num in my_map[max_count]:
                 result.append(num)
                 k -= 1
             max_count -= 1
