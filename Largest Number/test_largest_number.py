@@ -1,8 +1,8 @@
-from Largest_Number import Solution
+from largest_number import Solution
 import unittest
 
 
-class TestCase(unittest.TestCase):
+class LeetCodeTestCase(unittest.TestCase):
     def setUp(self):
         self.answer = Solution()
 

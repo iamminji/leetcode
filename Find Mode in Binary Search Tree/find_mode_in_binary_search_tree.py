@@ -1,3 +1,4 @@
+# 501. Find Mode in Binary Search Tree
 # https://leetcode.com/problems/find-mode-in-binary-search-tree/
 
 from collections import defaultdict
@@ -9,6 +10,7 @@ from collections import defaultdict
 #         self.val = x
 #         self.left = None
 #         self.right = None
+
 
 class Solution(object):
     def findMode(self, root):
