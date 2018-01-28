@@ -25,9 +25,9 @@ class Solution:
             if not res or res[-1] != s1:
                 res.append(s1)
                 res.append(s2)
-                if c1 + 1 < 0:
+                if abs(c1) > 1:
                     heappush(heap, (c1 + 1, s1))
-                if c2 + 1 < 0:
+                if abs(c2) > 1:
                     heappush(heap, (c2 + 1, s2))
 
         if heap:
