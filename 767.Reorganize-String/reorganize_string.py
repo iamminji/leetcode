@@ -32,17 +32,8 @@ class Solution:
 
         if heap:
             c, s = heappop(heap)
-            if abs(c) != -1:
+            if abs(c) != 1:
                 return ""
             res.append(s)
 
         return "".join(res)
-
-
-if __name__ == "__main__":
-    sol = Solution()
-    print(sol.reorganizeString("aab"))
-    # print(sol.reorganizeString("abcbc"))
-    print(sol.reorganizeString("bbbbaaaaaaacc"))
-    print(sol.reorganizeString("aaab"))
-    print(sol.reorganizeString("vvvlo"))
