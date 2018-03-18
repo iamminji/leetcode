@@ -2,7 +2,7 @@
 
 [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
 
-난이도 **Easy** 구현 문제이다.
+난이도 **Easy** 문제이다.
 
 굉장히 유명한, 연속적으로 가장 긴 증가하는 부분 수열 길이? 를 리턴하는 문제이다.
 easy라서 잉? 스러웠는데, 문제에서 주어진 것이 연속적으로 증가하는 부분만이어야 한다는 것을 보고 납득이 갔다.
