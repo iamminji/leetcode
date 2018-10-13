@@ -1,3 +1,9 @@
+/*
+    746. Min Cost Climbing Stairs
+    https://leetcode.com/problems/min-cost-climbing-stairs/description/
+*/
+
+
 public class Solution {
     public int minCostClimbingStairs(int[] cost) {
         int[] dp = new int[cost.length];

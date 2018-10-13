@@ -1,4 +1,4 @@
-# 441. Arranging Coins
+# 441.Arranging Coins
 # https://leetcode.com/problems/arranging-coins/
 
 # python3
