@@ -39,7 +39,6 @@ func recursive(node *TreeNode, visited map[*TreeNode]int) int {
 	if node.Right != nil {
 		v += recursive(node.Right.Left, visited) + recursive(node.Right.Right, visited)
 	}
-
 	val := max(v+node.Val, recursive(node.Left, visited)+recursive(node.Right, visited))
 	visited[node] = val
 	return val
@@ -52,27 +51,13 @@ func rob(root *TreeNode) int {
 
 func main() {
 
-	//[3,4,5,1,3,null,1]
-
-	//[3,2,3,null,3,null,1]
 	node := &TreeNode{Val: 3}
-	//node.Left = &TreeNode{Val: 4}
-	//node.Right = &TreeNode{Val: 5}
-	//node.Left.Left = &TreeNode{Val: 1}
-	//node.Left.Right = &TreeNode{Val: 3}
-	//node.Right.Right = &TreeNode{Val: 1}
 	//////
 	node.Left = &TreeNode{Val: 2}
 	node.Right = &TreeNode{Val: 3}
 	node.Left.Left = nil
 	node.Left.Right = &TreeNode{Val: 3}
 	node.Right.Right = &TreeNode{Val: 1}
-
-	//[4,2,null,1,3]
-	//node := &TreeNode{Val: 4}
-	//node.Left = &TreeNode{Val: 2}
-	//node.Left.Left = &TreeNode{Val: 3}
-	//node.Left.Right = &TreeNode{Val: 1}
 
 	fmt.Println(rob(node))
 }
