@@ -15,12 +15,12 @@ func constructRectangle(area int) []int {
 	result := []int{area, 1}
 	for i := 2; i <= int(end); i++ {
 		if float64(area)/float64(i) == float64(i) {
-			result = []int{area/i, i}
+			result = []int{area / i, i}
 			break
 		}
-		if area % i == 0 {
-			if result[0] - result[1] >= (area/i -  i) {
-				result = []int{area/i, i}
+		if area%i == 0 {
+			if result[0]-result[1] >= (area/i - i) {
+				result = []int{area / i, i}
 			}
 		}
 	}

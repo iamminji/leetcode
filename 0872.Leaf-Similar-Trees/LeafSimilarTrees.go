@@ -13,7 +13,7 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func recursive(node *TreeNode, ans *[]int){
+func recursive(node *TreeNode, ans *[]int) {
 
 	if node.Left == nil && node.Right == nil {
 		*ans = append(*ans, node.Val)
