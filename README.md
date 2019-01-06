@@ -8,6 +8,7 @@
 | [0020](https://leetcode.com/problems/valid-parentheses/description/)                         | Valid Parentheses                         | easy       | python         |           |
 | [0021](https://leetcode.com/problems/merge-two-sorted-lists/description/)                    | Merge Two Sorted Lists                    | easy       | python         |           |
 | [0026](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)       | Remove Duplicates from Sorted Array]      | easy       | python         |           |
+| [0051](https://leetcode.com/problems/n-queens/description/)                                  | N-Queens                                  | hard       | python         |           |
 | [0070](https://leetcode.com/problems/climbing-stairs/description/)                           | Climbing Stairs                           | easy       | python         |           |
 | [0107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)      | Binary Tree Level Order Traversal II      | easy       | python         |           |
 | [0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description)         | Best Time to Buy and Sell Stock II        | easy       | python         |           |
@@ -41,6 +42,8 @@
 | [0728](https://leetcode.com/problems/self-dividing-numbers/description/)                     | Self Dividing Numbers                     | easy       | python         |           |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                  | Min Cost Climbing Stairs                  | easy       | java           |           |
 | [0747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)   | Largest Number At Least Twice of Others   | easy       | python         |           |
+| [0759](https://leetcode.com/problems/employee-free-time/description/)                        | Employee-Free-Time                        | hard       | python         |           |
+| [0773](https://leetcode.com/problems/sliding-puzzle/description/)                            | Sliding Puzzle                            | hard       | python         |           |
 | [0796](https://leetcode.com/problems/rotate-string/description/)                             | Rotate String                             | easy       | java           |           |
 | [0804](https://leetcode.com/problems/unique-morse-code-words/description/)                   | Unique Morse Code Words                   | easy       | python         |           |
 | [0811](https://leetcode.com/problems/subdomain-visit-count/description/)                     | Subdomain Visit Count                     | easy       | python         |           |
