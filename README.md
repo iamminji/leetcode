@@ -1,6 +1,9 @@
-### ✏️ LeetCode-Online-Judge 
+# ✏️ LeetCode-Online-Judge
 
-#### 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-go.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+
 | #                                                                                            | title                                     | difficulty | languages      | solutions |
 |----------------------------------------------------------------------------------------------|-------------------------------------------|------------|----------------|-----------|
 | [0001](https://leetcode.com/problems/two-sum/)                                               | Two Sum                                   | easy       | python         |           |
