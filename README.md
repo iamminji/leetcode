@@ -36,6 +36,7 @@
 | [0338](https://leetcode.com/problems/counting-bits/description/)                             | Counting Bits                             | easy       | python         |           |
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/description/)                   | Top K Frequent Elements                   | medium     | python         |           |
 | [0441](https://leetcode.com/problems/arranging-coins/)                                       | Arranging Coins                           | easy       | python, c      |           |
+| [0443](https://leetcode.com/problems/string-compression/)                                    | String Compression                        | easy       | golang         |           |
 | [0447](https://leetcode.com/problems/number-of-boomerangs/)                                  | Number of Boomerangs                      | easy       | python         |           |
 | [0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)  | Find All Numbers Disappeared in an Array  | easy       | python         |           |
 | [0455](https://leetcode.com/problems/assign-cookies/)                                        | Assign Cookies                            | easy       | python         |           |
