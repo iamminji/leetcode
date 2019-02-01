@@ -61,6 +61,8 @@
 | [0565](https://leetcode.com/problems/array-nesting/)                                         | Array Nesting                             | medium     | golang         |           |
 | [0572](https://leetcode.com/problems/subtree-of-another-tree/description/)                   | Subtree of Another Tree                   | easy       | python         |           |
 | [0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)     | Shortest Unsorted Continuous Subarray     | easy       | python         |           |
+| [0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                         | [N-ary Tree Preorder Traversal](🙂easy/0589.N-ary-Tree-Preorder-Traversal)     | easy       | python         |           |
+| [0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                        | [N-ary Tree Postorder Traversal](🙂easy/0590.N-ary-Tree-Postorder-Traversal)     | easy       | python         |           |
 | [0605](https://leetcode.com/problems/can-place-flowers/)                                     | Can Place Flowers                         | easy       | golang         |           |
 | [0641](https://leetcode.com/problems/design-circular-deque/)                                 | Design Circular Deque                     | medium     | golang         |           |
 | [0643](https://leetcode.com/problems/maximum-average-subarray-i/#/description)               | Maximum Average Subarray I                | easy       | python         |           |
