@@ -89,6 +89,7 @@
 | [0797](https://leetcode.com/problems/all-paths-from-source-to-target/description/)           | All Paths From Source to Target           | medium     | java           |           |
 | [0799](https://leetcode.com/problems/champagne-tower/description/)                           | Champagne Tower                           | medium     | python         |           |
 | [0801](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/)| Minimum Swaps To Make Sequences Increasing| medium     | python         |           |
+| [0802](https://leetcode.com/problems/find-eventual-safe-states/)| Find Eventual Safe States| medium     | python         |           |
 | [0804](https://leetcode.com/problems/unique-morse-code-words/description/)                   | Unique Morse Code Words                   | easy       | python         |           |
 | [0808](https://leetcode.com/problems/soup-servings/description/)                             | Soup Servings                             | medium     | python         |           |
 | [0811](https://leetcode.com/problems/subdomain-visit-count/description/)                     | Subdomain Visit Count                     | easy       | python         |           |
