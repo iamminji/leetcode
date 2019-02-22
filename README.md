@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
-| #                                                                                            | title                                     | difficulty | languages      | solutions |
+| #                                                                                            | title                                     | difficulty | languages      |    tag    |
 |----------------------------------------------------------------------------------------------|-------------------------------------------|------------|----------------|-----------|
 | [0001](https://leetcode.com/problems/two-sum/)                                               | Two Sum                                   | easy       | python         |           |
 | [0013](https://leetcode.com/problems/roman-to-integer/description/)                          | Roman to Integer                          | easy       | python         |           |
@@ -97,6 +97,7 @@
 | [0821](https://leetcode.com/problems/shortest-distance-to-a-character/description/)          | Shortest Distance to a Character          | easy       | python         |           |
 | [0823](https://leetcode.com/problems/binary-trees-with-factors/description/)                 | Binary Trees With Factors                 | medium     | python         |           |
 | [0830](https://leetcode.com/problems/positions-of-large-groups/description/)                 | Positions of Large Groups                 | easy       | python         |           |
+| [0841](https://leetcode.com/problems/keys-and-rooms/)                 | [Keys and Rooms](🤔medium/0841.Keys-and-Rooms/keys_and_rooms.py)                 | medium       | python         |   dfs, graph        |
 | [0872](https://leetcode.com/problems/leaf-similar-trees/submissions/)                        | Leaf-Similar Trees                        | easy       | python         |           |
 | [0905](https://leetcode.com/problems/sort-array-by-parity/)                                  | Sort Array By Parity                      | easy       | golang         |           |
 | [0921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)     | Minimum Add to Make Parentheses Valid     | medium     | golang         |           |
