@@ -23,7 +23,7 @@ class FullBinaryTreeNodePrettyPrinter:
         queue.append(node)
         ans = []
 
-        while 0 < len(queue) != queue.count(None):
+        while len(queue) != queue.count(None):
             n = queue.popleft()
             if n is not None:
                 ans.append(n.val)

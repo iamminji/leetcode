@@ -98,8 +98,8 @@
 | [0823](https://leetcode.com/problems/binary-trees-with-factors/description/)                 | Binary Trees With Factors                 | medium     | python         |           |
 | [0830](https://leetcode.com/problems/positions-of-large-groups/description/)                 | Positions of Large Groups                 | easy       | python         |           |
 | [0841](https://leetcode.com/problems/keys-and-rooms/)                 | Keys and Rooms                 | medium       | [python](🤔medium/0841.Keys-and-Rooms/keys_and_rooms.py)         |   dfs, graph        |
-| [0872](https://leetcode.com/problems/leaf-similar-trees/)                        | Leaf-Similar Trees                        | medium       | [python](🤔medium/0894.-All-Possible-Full-Binary-Trees/all_possible_full_binary_trees.py)         |           |
-| [0894](https://leetcode.com/problems/all-possible-full-binary-trees/)                        | All Possible Full Binary Trees                        | easy       | python         |           |
+| [0872](https://leetcode.com/problems/leaf-similar-trees/)                        | Leaf-Similar Trees                        | easy       | python         |           |
+| [0894](https://leetcode.com/problems/all-possible-full-binary-trees/)                        | All Possible Full Binary Trees                        | medium       | [python](🤔medium/0894.-All-Possible-Full-Binary-Trees/all_possible_full_binary_trees.py)         |           |
 | [0905](https://leetcode.com/problems/sort-array-by-parity/)                                  | Sort Array By Parity                      | easy       | golang         |           |
 | [0921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)     | Minimum Add to Make Parentheses Valid     | medium     | golang         |           |
 | [0929](https://leetcode.com/problems/unique-email-addresses/description/)                    | Unique Email Addresses                    | easy       | golang         |           |
