@@ -38,7 +38,7 @@
 | [0337](https://leetcode.com/problems/house-robber-iii/)                                      | House Robber III                          | medium     | golang         |           |
 | [0338](https://leetcode.com/problems/counting-bits/description/)                             | Counting Bits                             | easy       | python         |           |
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/description/)                   | Top K Frequent Elements                   | medium     | python         |           |
-| [0367](https://leetcode.com/problems/valid-perfect-square/)                                  | [Valid Perfect Square](🙂easy/0367.Valid-Perfect-Square/valid_perfect_square.py)                   | easy     | python         |           |
+| [0367](https://leetcode.com/problems/valid-perfect-square/)                                  | Valid Perfect Square                   | easy     | [python](🙂easy/0367.Valid-Perfect-Square/valid_perfect_square.py)         |           |
 | [0441](https://leetcode.com/problems/arranging-coins/)                                       | Arranging Coins                           | easy       | python, c      |           |
 | [0443](https://leetcode.com/problems/string-compression/)                                    | String Compression                        | easy       | golang         |           |
 | [0447](https://leetcode.com/problems/number-of-boomerangs/)                                  | Number of Boomerangs                      | easy       | python         |           |
@@ -62,8 +62,8 @@
 | [0565](https://leetcode.com/problems/array-nesting/)                                         | Array Nesting                             | medium     | golang         |           |
 | [0572](https://leetcode.com/problems/subtree-of-another-tree/description/)                   | Subtree of Another Tree                   | easy       | python         |           |
 | [0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)     | Shortest Unsorted Continuous Subarray     | easy       | python         |           |
-| [0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                         | [N-ary Tree Preorder Traversal](🙂easy/0589.N-ary-Tree-Preorder-Traversal)     | easy       | python         |           |
-| [0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                        | [N-ary Tree Postorder Traversal](🙂easy/0590.N-ary-Tree-Postorder-Traversal)     | easy       | python         |           |
+| [0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                         | N-ary Tree Preorder Traversal     | easy       | [python](🙂easy/0589.N-ary-Tree-Preorder-Traversal/n-ary_tree_preorder_traversal.py)         |           |
+| [0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                        | N-ary Tree Postorder Traversal     | easy       | [python](🙂easy/0590.N-ary-Tree-Postorder-Traversal/n-ary_tree_postorder_traversal.py)         |           |
 | [0605](https://leetcode.com/problems/can-place-flowers/)                                     | Can Place Flowers                         | easy       | golang         |           |
 | [0641](https://leetcode.com/problems/design-circular-deque/)                                 | Design Circular Deque                     | medium     | golang         |           |
 | [0643](https://leetcode.com/problems/maximum-average-subarray-i/#/description)               | Maximum Average Subarray I                | easy       | python         |           |
@@ -75,8 +75,8 @@
 | [0709](https://leetcode.com/problems/to-lower-case/description/)                             | To Lower Case                             | easy       | golang         |           |
 | [0728](https://leetcode.com/problems/self-dividing-numbers/description/)                     | Self Dividing Numbers                     | easy       | python         |           |
 | [0731](https://leetcode.com/problems/my-calendar-ii/description/)                            | My Calendar II                            | medium     | python         |           |
-| [0733](https://leetcode.com/problems/flood-fill/)                            | [Flood Fill](🙂easy/0733.Flood-Fill)                            | easy     | python         |           |
-| [0743](https://leetcode.com/problems/network-delay-time/)                            | [Network Delay Time](🙂easy/0743.Network-Delay-Time)                            | easy     | python         |           |
+| [0733](https://leetcode.com/problems/flood-fill/)                            | Flood Fill                            | easy     | [python](🙂easy/0733.Flood-Fill/flood_fill.py)         |           |
+| [0743](https://leetcode.com/problems/network-delay-time/)                            | Network Delay Time                            | easy     | [python](🙂easy/0743.Network-Delay-Time/network_delay_time_dfs.py)         |           |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                  | Min Cost Climbing Stairs                  | easy       | java           |           |
 | [0747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)   | Largest Number At Least Twice of Others   | easy       | python         |           |
 | [0759](https://leetcode.com/problems/employee-free-time/description/)                        | Employee-Free-Time                        | hard       | python         |           |
@@ -97,11 +97,12 @@
 | [0821](https://leetcode.com/problems/shortest-distance-to-a-character/description/)          | Shortest Distance to a Character          | easy       | python         |           |
 | [0823](https://leetcode.com/problems/binary-trees-with-factors/description/)                 | Binary Trees With Factors                 | medium     | python         |           |
 | [0830](https://leetcode.com/problems/positions-of-large-groups/description/)                 | Positions of Large Groups                 | easy       | python         |           |
-| [0841](https://leetcode.com/problems/keys-and-rooms/)                 | [Keys and Rooms](🤔medium/0841.Keys-and-Rooms/keys_and_rooms.py)                 | medium       | python         |   dfs, graph        |
-| [0872](https://leetcode.com/problems/leaf-similar-trees/submissions/)                        | Leaf-Similar Trees                        | easy       | python         |           |
+| [0841](https://leetcode.com/problems/keys-and-rooms/)                 | Keys and Rooms                 | medium       | [python](🤔medium/0841.Keys-and-Rooms/keys_and_rooms.py)         |   dfs, graph        |
+| [0872](https://leetcode.com/problems/leaf-similar-trees/)                        | Leaf-Similar Trees                        | medium       | [python](🤔medium/0894.-All-Possible-Full-Binary-Trees/all_possible_full_binary_trees.py)         |           |
+| [0894](https://leetcode.com/problems/all-possible-full-binary-trees/)                        | All Possible Full Binary Trees                        | easy       | python         |           |
 | [0905](https://leetcode.com/problems/sort-array-by-parity/)                                  | Sort Array By Parity                      | easy       | golang         |           |
 | [0921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)     | Minimum Add to Make Parentheses Valid     | medium     | golang         |           |
 | [0929](https://leetcode.com/problems/unique-email-addresses/description/)                    | Unique Email Addresses                    | easy       | golang         |           |
-| [0941](https://leetcode.com/problems/valid-mountain-array/)                    | [Valid Mountain Array](🙂easy/0941.Valid-Mountain-Array)                    | easy       | python         |           |
+| [0941](https://leetcode.com/problems/valid-mountain-array/)                    | Valid Mountain Array                    | easy       | [python](🙂easy/0941.Valid-Mountain-Array/valid_mountain_array.py)         |           |
 | [0965](https://leetcode.com/problems/univalued-binary-tree/)                                 | Univalued Binary Tree                     | easy       | golang         |           |
 | [0977](https://leetcode.com/problems/squares-of-a-sorted-array/)                             | Squares of a Sorted Array                 | easy       | golang         |           |
