@@ -106,3 +106,4 @@
 | [0941](https://leetcode.com/problems/valid-mountain-array/)                    | Valid Mountain Array                    | easy       | [python](🙂easy/0941.Valid-Mountain-Array/valid_mountain_array.py)         |           |
 | [0965](https://leetcode.com/problems/univalued-binary-tree/)                                 | Univalued Binary Tree                     | easy       | golang         |           |
 | [0977](https://leetcode.com/problems/squares-of-a-sorted-array/)                             | Squares of a Sorted Array                 | easy       | golang         |           |
+| [1002](https://leetcode.com/problems/find-common-characters/)                             | Find Common Characters                 | easy       | [python](🙂easy/1002.Find-Common-Characters/find_common_characters.py)        |           |
