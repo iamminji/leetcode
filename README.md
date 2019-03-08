@@ -16,6 +16,7 @@
 | [0046](https://leetcode.com/problems/permutations/)                                          | Permutations                              | medium     | golang         |           |
 | [0051](https://leetcode.com/problems/n-queens/description/)                                  | N-Queens                                  | hard       | python         |           |
 | [0055](https://leetcode.com/problems/jump-game/description/)                                 | Jump Game                                 | medium     | golang         |           |
+| [0067](https://leetcode.com/problems/add-binary/)                                 | Add Binary                                 | easy     | [python](🙂easy/0067.Add-Binary/add_binary.py)         |           |
 | [0070](https://leetcode.com/problems/climbing-stairs/description/)                           | Climbing Stairs                           | easy       | python         |           |
 | [0075](https://leetcode.com/problems/sort-colors/description/)                               | Sort Colors                               | medium     | python         |           |
 | [0079](https://leetcode.com/problems/word-search/description/)                               | Word Search                               | medium     | python         |           |
@@ -30,6 +31,7 @@
 | [0199](https://leetcode.com/problems/binary-tree-right-side-view/description/)               | Binary Tree Right Side View               | medium     | python         |           |
 | [0200](https://leetcode.com/problems/number-of-islands/description/)                         | Number of Islands                         | medium     | java           |           |
 | [0206](https://leetcode.com/problems/reverse-linked-list/description/)                       | Reverse Linked List                       | easy       | python         |           |
+| [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/)                       | Kth Largest Element in an Array                       | medium       | [python](🤔medium/0215.Kth-Largest-Element-in-an-Array/kth_largest_element_in_an_array.py)         |           |
 | [0226](https://leetcode.com/problems/invert-binary-tree/description/)                        | Invert Binary Tree                        | easy       | python         |           |
 | [0229](https://leetcode.com/problems/majority-element-ii/description/)                       | Majority Element II                       | medium     | python         |           |
 | [0238](https://leetcode.com/problems/product-of-array-except-self/description/)              | Product of Array Except Self              | medium     | python         |           |
