@@ -32,8 +32,6 @@ class Solution:
         for k, v in t1.items():
             if -k in t2 and v >= 1 and t2[-k] >= 1:
                 result += v * t2[-k]
-                t1[k] -= 1
-                t2[-k] -= 1
 
         return result
 
