@@ -30,6 +30,7 @@
 | [0179](https://leetcode.com/problems/largest-number/description/)                            | Largest Number                            | medium     | python         |           |
 | [0199](https://leetcode.com/problems/binary-tree-right-side-view/description/)               | Binary Tree Right Side View               | medium     | python         |           |
 | [0200](https://leetcode.com/problems/number-of-islands/description/)                         | Number of Islands                         | medium     | java           |           |
+| [0203](https://leetcode.com/problems/remove-linked-list-elements/)                         | Remove Linked List Elements                         | easy     | [python](🙂easy/0203.Remove-Linked-List-Elements/remove_linked_list_elements.py)           |           |
 | [0206](https://leetcode.com/problems/reverse-linked-list/description/)                       | Reverse Linked List                       | easy       | python         |           |
 | [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/)                       | Kth Largest Element in an Array                       | medium       | [python](🤔medium/0215.Kth-Largest-Element-in-an-Array/kth_largest_element_in_an_array.py)         |           |
 | [0226](https://leetcode.com/problems/invert-binary-tree/description/)                        | Invert Binary Tree                        | easy       | python         |           |
@@ -43,6 +44,7 @@
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/description/)                   | Top K Frequent Elements                   | medium     | python         |           |
 | [0367](https://leetcode.com/problems/valid-perfect-square/)                                  | Valid Perfect Square                   | easy     | [python](🙂easy/0367.Valid-Perfect-Square/valid_perfect_square.py)         |           |
 | [0394](https://leetcode.com/problems/decode-string/)                                  | Decode String                   | medium     | [python](🤔medium/0394.Decode-String/decode_string.py)         |           |
+| [0434](https://leetcode.com/problems/number-of-segments-in-a-string/)                                       | Number of Segments in a String                           | easy       | [python](🙂easy/0434.Number-of-Segments-in-a-String/number_of_segments_in_a_string.py)      |           |
 | [0441](https://leetcode.com/problems/arranging-coins/)                                       | Arranging Coins                           | easy       | python, c      |           |
 | [0443](https://leetcode.com/problems/string-compression/)                                    | String Compression                        | easy       | golang         |           |
 | [0447](https://leetcode.com/problems/number-of-boomerangs/)                                  | Number of Boomerangs                      | easy       | python         |           |
