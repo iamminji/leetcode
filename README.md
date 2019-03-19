@@ -21,6 +21,7 @@
 | [0075](https://leetcode.com/problems/sort-colors/description/)                               | Sort Colors                               | medium     | python         |           |
 | [0079](https://leetcode.com/problems/word-search/description/)                               | Word Search                               | medium     | python         |           |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)             | Binary Tree Inorder Traversal             | medium     | python         |           |
+| [0096](https://leetcode.com/problems/unique-binary-search-trees/)             | Unique Binary Search Trees             | medium     | [python](🤔medium/0096.Unique-Binary-Search-Trees/unique_binary_search_trees.py)         |           |
 | [0103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)  | Binary Tree Zigzag Level Order Traversal  | medium     | python         |           |
 | [0107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)      | Binary Tree Level Order Traversal II      | easy       | python         |           |
 | [0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description)         | Best Time to Buy and Sell Stock II        | easy       | python         |           |
