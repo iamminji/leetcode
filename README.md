@@ -32,6 +32,7 @@
 | [0199](https://leetcode.com/problems/binary-tree-right-side-view/description/)               | Binary Tree Right Side View               | medium     | python         |           |
 | [0200](https://leetcode.com/problems/number-of-islands/description/)                         | Number of Islands                         | medium     | java           |           |
 | [0203](https://leetcode.com/problems/remove-linked-list-elements/)                         | Remove Linked List Elements                         | easy     | [python](🙂easy/0203.Remove-Linked-List-Elements/remove_linked_list_elements.py)           |           |
+| [0205](https://leetcode.com/problems/isomorphic-strings/)                       | Isomorphic Strings                       | easy       | [python](🙂easy/0205.Isomorphic-Strings/isomorphic_strings.py)         |           |
 | [0206](https://leetcode.com/problems/reverse-linked-list/description/)                       | Reverse Linked List                       | easy       | python         |           |
 | [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/)                       | Kth Largest Element in an Array                       | medium       | [python](🤔medium/0215.Kth-Largest-Element-in-an-Array/kth_largest_element_in_an_array.py)         |           |
 | [0226](https://leetcode.com/problems/invert-binary-tree/description/)                        | Invert Binary Tree                        | easy       | python         |           |
