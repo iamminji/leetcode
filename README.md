@@ -22,6 +22,7 @@
 | [0079](https://leetcode.com/problems/word-search/description/)                               | Word Search                               | medium     | python         |           |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)             | Binary Tree Inorder Traversal             | medium     | python         |           |
 | [0096](https://leetcode.com/problems/unique-binary-search-trees/)             | Unique Binary Search Trees             | medium     | [python](🤔medium/0096.Unique-Binary-Search-Trees/unique_binary_search_trees.py)         |           |
+| [0100](https://leetcode.com/problems/same-tree/)  | Same Tree  | easy     | [python](🙂easy/0100.Same-Tree/same_tree.py)         |           |
 | [0103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)  | Binary Tree Zigzag Level Order Traversal  | medium     | python         |           |
 | [0107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)      | Binary Tree Level Order Traversal II      | easy       | python         |           |
 | [0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description)         | Best Time to Buy and Sell Stock II        | easy       | python         |           |
@@ -44,6 +45,7 @@
 | [0337](https://leetcode.com/problems/house-robber-iii/)                                      | House Robber III                          | medium     | golang         |           |
 | [0338](https://leetcode.com/problems/counting-bits/description/)                             | Counting Bits                             | easy       | python         |           |
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/description/)                   | Top K Frequent Elements                   | medium     | python         |           |
+| [0349](https://leetcode.com/problems/intersection-of-two-arrays/)                   | Intersection of Two Arrays                   | easy     | [python](🙂easy/0349.Intersection-of-Two-Arrays/intersection_of_two_arrays.py)         |           |
 | [0367](https://leetcode.com/problems/valid-perfect-square/)                                  | Valid Perfect Square                   | easy     | [python](🙂easy/0367.Valid-Perfect-Square/valid_perfect_square.py)         |           |
 | [0394](https://leetcode.com/problems/decode-string/)                                  | Decode String                   | medium     | [python](🤔medium/0394.Decode-String/decode_string.py)         |           |
 | [0434](https://leetcode.com/problems/number-of-segments-in-a-string/)                                       | Number of Segments in a String                           | easy       | [python](🙂easy/0434.Number-of-Segments-in-a-String/number_of_segments_in_a_string.py)      |           |
