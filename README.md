@@ -76,6 +76,7 @@
 | [0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                         | N-ary Tree Preorder Traversal     | easy       | [python](🙂easy/0589.N-ary-Tree-Preorder-Traversal/n-ary_tree_preorder_traversal.py)         |           |
 | [0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                        | N-ary Tree Postorder Traversal     | easy       | [python](🙂easy/0590.N-ary-Tree-Postorder-Traversal/n-ary_tree_postorder_traversal.py)         |           |
 | [0605](https://leetcode.com/problems/can-place-flowers/)                                     | Can Place Flowers                         | easy       | golang         |           |
+| [0621](https://leetcode.com/problems/task-scheduler/)                                     | Task Scheduler                         | medium       | [python](🤔medium/0621.Task-Scheduler/task_scheduler.py)         |           |
 | [0641](https://leetcode.com/problems/design-circular-deque/)                                 | Design Circular Deque                     | medium     | golang         |           |
 | [0643](https://leetcode.com/problems/maximum-average-subarray-i/#/description)               | Maximum Average Subarray I                | easy       | python         |           |
 | [0655](https://leetcode.com/problems/print-binary-tree/description/)                         | Print Binary Tree                         | medium     | python         |           |
