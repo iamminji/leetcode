@@ -41,6 +41,7 @@
 | [0229](https://leetcode.com/problems/majority-element-ii/description/)                       | Majority Element II                       | medium     | python         |           |
 | [0238](https://leetcode.com/problems/product-of-array-except-self/description/)              | Product of Array Except Self              | medium     | python         |           |
 | [0242](https://leetcode.com/problems/valid-anagram/description/)                             | Valid Anagram                             | easy       | python         |           |
+| [0257](https://leetcode.com/problems/binary-tree-paths/)                             | Binary Tree Paths                             | easy       | [python](🙂easy/0257.Binary-Tree-Paths/binary_tree_paths.py)         |           |
 | [0322](https://leetcode.com/problems/coin-change/)                            | Coin Change                            | medium     | [python](🤔medium/0322.Coin-Change/coin_change.py)         |    dp       |
 | [0324](https://leetcode.com/problems/wiggle-sort-ii/description/)                            | Wiggle Sort II                            | medium     | python         |           |
 | [0337](https://leetcode.com/problems/house-robber-iii/)                                      | House Robber III                          | medium     | golang         |           |
