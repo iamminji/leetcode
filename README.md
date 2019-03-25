@@ -43,8 +43,8 @@
 | [0242](https://leetcode.com/problems/valid-anagram/description/)                             | Valid Anagram                             | easy       | python         |           |
 | [0257](https://leetcode.com/problems/binary-tree-paths/)                             | Binary Tree Paths                             | easy       | [python](🙂easy/0257.Binary-Tree-Paths/binary_tree_paths.py)         |           |
 | [0322](https://leetcode.com/problems/coin-change/)                            | Coin Change                            | medium     | [python](🤔medium/0322.Coin-Change/coin_change.py)         |    dp       |
-| [0324](https://leetcode.com/problems/wiggle-sort-ii/description/)                            | Odd Even Linked List                            | medium     | [python](🤔medium/0328.Odd-Even-Linked-List/odd_even_linked_list.py)         |   linked list        |
-| [0328](https://leetcode.com/problems/odd-even-linked-list/)                            | Wiggle Sort II                            | medium     | python         |           |
+| [0324](https://leetcode.com/problems/wiggle-sort-ii/description/)                            | Wiggle Sort II                            | medium     | python         |           |
+| [0328](https://leetcode.com/problems/odd-even-linked-list/)                            | Odd Even Linked List                            | medium     | [python](🤔medium/0328.Odd-Even-Linked-List/odd_even_linked_list.py)         |   linked list        |
 | [0337](https://leetcode.com/problems/house-robber-iii/)                                      | House Robber III                          | medium     | golang         |           |
 | [0338](https://leetcode.com/problems/counting-bits/description/)                             | Counting Bits                             | easy       | python         |           |
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/description/)                   | Top K Frequent Elements                   | medium     | python         |           |
