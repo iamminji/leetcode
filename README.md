@@ -7,12 +7,15 @@
 | #                                                                                            | title                                     | difficulty | languages      |    tag    |
 |----------------------------------------------------------------------------------------------|-------------------------------------------|------------|----------------|-----------|
 | [0001](https://leetcode.com/problems/two-sum/)                                               | Two Sum                                   | easy       | python         |           |
+| [0007](https://leetcode.com/problems/reverse-integer/)                                               | Reverse Integer                                   | easy       | [python](🙂easy/0007.Reverse-Integer/reverse_integer.py)         |           |
+| [0009](https://leetcode.com/problems/palindrome-number/)                                               | Palindrome Number                                   | easy       | [python](🙂easy/0009.Palindrome-Number/palindrome_number.py)         |           |
 | [0013](https://leetcode.com/problems/roman-to-integer/description/)                          | Roman to Integer                          | easy       | python         |           |
 | [0020](https://leetcode.com/problems/valid-parentheses/description/)                         | Valid Parentheses                         | easy       | python         |           |
 | [0021](https://leetcode.com/problems/merge-two-sorted-lists/description/)                    | Merge Two Sorted Lists                    | easy       | python         |           |
 | [0022](https://leetcode.com/problems/generate-parentheses/description/)                      | Generate Parentheses                      | medium     | python         |           |
 | [0026](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)       | Remove Duplicates from Sorted Array       | easy       | python         |           |
 | [0033](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)            | Search in Rotated Sorted Array            | medium     | python         |           |
+| [0035](https://leetcode.com/problems/search-insert-position/)            | Search Insert Position            | easy     | [python](🙂easy/0035.Search-Insert-Position/search_insert_position.py)         |           |
 | [0046](https://leetcode.com/problems/permutations/)                                          | Permutations                              | medium     | golang         |           |
 | [0051](https://leetcode.com/problems/n-queens/description/)                                  | N-Queens                                  | hard       | python         |           |
 | [0055](https://leetcode.com/problems/jump-game/description/)                                 | Jump Game                                 | medium     | golang         |           |
