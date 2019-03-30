@@ -18,6 +18,7 @@
 | [0035](https://leetcode.com/problems/search-insert-position/)            | Search Insert Position            | easy     | [python](🙂easy/0035.Search-Insert-Position/search_insert_position.py)         |           |
 | [0046](https://leetcode.com/problems/permutations/)                                          | Permutations                              | medium     | golang         |           |
 | [0051](https://leetcode.com/problems/n-queens/description/)                                  | N-Queens                                  | hard       | python         |           |
+| [0053](https://leetcode.com/problems/maximum-subarray/)                                  | Maximum Subarray                                  | easy       | [python](🙂easy/0053.Maximum-Subarray/maximum_subarray.py)         |           |
 | [0055](https://leetcode.com/problems/jump-game/description/)                                 | Jump Game                                 | medium     | golang         |           |
 | [0067](https://leetcode.com/problems/add-binary/)                                 | Add Binary                                 | easy     | [python](🙂easy/0067.Add-Binary/add_binary.py)         |           |
 | [0070](https://leetcode.com/problems/climbing-stairs/description/)                           | Climbing Stairs                           | easy       | python         |           |
