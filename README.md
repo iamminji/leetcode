@@ -86,6 +86,7 @@
 | [0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)     | Shortest Unsorted Continuous Subarray     | easy       | python         |           |
 | [0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                         | N-ary Tree Preorder Traversal     | easy       | [python](🙂easy/0589.N-ary-Tree-Preorder-Traversal/n-ary_tree_preorder_traversal.py)         |           |
 | [0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                        | N-ary Tree Postorder Traversal     | easy       | [python](🙂easy/0590.N-ary-Tree-Postorder-Traversal/n-ary_tree_postorder_traversal.py)         |           |
+| [0599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                        | Minimum Index Sum of Two Lists     | easy       | [python](🙂easy/0599.Minimum-Index-Sum-of-Two-Lists/minimum_index_sum_of_two_lists.py)         |           |
 | [0605](https://leetcode.com/problems/can-place-flowers/)                                     | Can Place Flowers                         | easy       | golang         |           |
 | [0621](https://leetcode.com/problems/task-scheduler/)                                     | Task Scheduler                         | medium       | [python](🤔medium/0621.Task-Scheduler/task_scheduler.py)         |           |
 | [0641](https://leetcode.com/problems/design-circular-deque/)                                 | Design Circular Deque                     | medium     | golang         |           |
@@ -94,6 +95,7 @@
 | [0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | Longest Continuous Increasing Subsequence | easy       | java           |           |
 | [0693](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)       | Binary Number with Alternating Bits       | easy       | python         |           |
 | [0695](https://leetcode.com/problems/max-area-of-island/description/)                        | Max Area of Island                        | easy       | python         |           |
+| [0700](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                    | Search in a Binary Search Tree                        | easy       | [python](🙂easy/0700.Search-in-a-Binary-Search-Tree/search_in_a_binary_search_tree.py)         |           |
 | [0707](https://leetcode.com/problems/design-linked-list/)                                    | Design Linked List                        | easy       | golang         |           |
 | [0709](https://leetcode.com/problems/to-lower-case/description/)                             | To Lower Case                             | easy       | golang         |           |
 | [0728](https://leetcode.com/problems/self-dividing-numbers/description/)                     | Self Dividing Numbers                     | easy       | python         |           |
