@@ -27,13 +27,13 @@ class Solution:
             return len(s)
 
         res = 0
-        i, j = 0, 1
+        i, j = 0, 0
         d = set()
 
-        while i < len(s) and j < len(s) + 1:
+        while i < len(s) and j < len(s):
             if s[j] not in d:
                 d.add(s[j])
-                res = max(res, j - i)
+                res = max(res, j - i + 1)
                 j += 1
             else:
                 d.remove(s[i])
