@@ -132,6 +132,7 @@
 | [0921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)     | Minimum Add to Make Parentheses Valid     | medium     | golang         |           |
 | [0929](https://leetcode.com/problems/unique-email-addresses/description/)                    | Unique Email Addresses                    | easy       | golang         |           |
 | [0941](https://leetcode.com/problems/valid-mountain-array/)                    | Valid Mountain Array                    | easy       | [python](🙂easy/0941.Valid-Mountain-Array/valid_mountain_array.py)         |           |
+| [0942](https://leetcode.com/problems/di-string-match/)                    | DI String Match                    | easy       | [python](🙂easy/0942.DI-String-Match/di_string_match.py)         |           |
 | [0961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)                                 | N-Repeated Element in Size 2N Array                     | easy       | [python](🙂easy/0961.N-Repeated-Element-in-Size-2N-Array/n-repeated_element_in_size_2n_array.py)         |           |
 | [0965](https://leetcode.com/problems/univalued-binary-tree/)                                 | Univalued Binary Tree                     | easy       | golang         |           |
 | [0977](https://leetcode.com/problems/squares-of-a-sorted-array/)                             | Squares of a Sorted Array                 | easy       | golang         |           |
