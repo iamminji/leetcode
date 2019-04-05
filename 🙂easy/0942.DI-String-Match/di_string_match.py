@@ -12,7 +12,7 @@ class Solution:
 
         # 제일 작은 수와 큰 수를 사전에 미리 정의하고
         # 알파벳이 등장할 때 해당하는 값을 증가/감소 시켜가며 넣어주면 된다.
-        # 전체 수의 길이는 문자열 길이 + 1 이므로 마지막 글자만 한번 더 확인해준다.
+        # 전체 수의 길이는 문자열 길이 + 1 이므로 마지막 글자만 한번 더 넣어준다. (결국 start와 end는 같게 된다.)
         res = []
         for s in S:
             if s == "I":
@@ -22,8 +22,5 @@ class Solution:
                 res.append(end)
                 end -= 1
 
-        if S[-1] == "D":
-            res.append(end)
-        else:
-            res.append(start)
+        res.append(start)
         return res
