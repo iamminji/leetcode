@@ -127,6 +127,7 @@
 | [0830](https://leetcode.com/problems/positions-of-large-groups/description/)                 | Positions of Large Groups                 | easy       | python         |           |
 | [0841](https://leetcode.com/problems/keys-and-rooms/)                 | Keys and Rooms                 | medium       | [python](🤔medium/0841.Keys-and-Rooms/keys_and_rooms.py)         |   dfs, graph        |
 | [0872](https://leetcode.com/problems/leaf-similar-trees/)                        | Leaf-Similar Trees                        | easy       | python         |           |
+| [0876](https://leetcode.com/problems/middle-of-the-linked-list/)                        | Middle of the Linked List                        | easy       | [python](🙂easy/0876.Middle-of-the-Linked-List/middle_of_the_linked_list.py)         |           |
 | [0894](https://leetcode.com/problems/all-possible-full-binary-trees/)                        | All Possible Full Binary Trees                        | medium       | [python](🤔medium/0894.All-Possible-Full-Binary-Trees/all_possible_full_binary_trees.py)         |           |
 | [0905](https://leetcode.com/problems/sort-array-by-parity/)                                  | Sort Array By Parity                      | easy       | golang         |           |
 | [0921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)     | Minimum Add to Make Parentheses Valid     | medium     | golang         |           |
