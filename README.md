@@ -55,6 +55,7 @@
 | [0328](https://leetcode.com/problems/odd-even-linked-list/)                            | Odd Even Linked List                            | medium     | [python](🤔medium/0328.Odd-Even-Linked-List/odd_even_linked_list.py)         |   linked list        |
 | [0337](https://leetcode.com/problems/house-robber-iii/)                                      | House Robber III                          | medium     | golang         |           |
 | [0338](https://leetcode.com/problems/counting-bits/description/)                             | Counting Bits                             | easy       | python         |           |
+| [0345](https://leetcode.com/problems/reverse-vowels-of-a-string/)                   | Reverse Vowels of a String                   | easy     | [python](🙂easy/0345.Reverse-Vowels-of-a-String/reverse_vowels_of_a_string.py)         |           |
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/description/)                   | Top K Frequent Elements                   | medium     | python         |           |
 | [0349](https://leetcode.com/problems/intersection-of-two-arrays/)                   | Intersection of Two Arrays                   | easy     | [python](🙂easy/0349.Intersection-of-Two-Arrays/intersection_of_two_arrays.py)         |           |
 | [0367](https://leetcode.com/problems/valid-perfect-square/)                                  | Valid Perfect Square                   | easy     | [python](🙂easy/0367.Valid-Perfect-Square/valid_perfect_square.py)         |           |
@@ -129,6 +130,7 @@
 | [0872](https://leetcode.com/problems/leaf-similar-trees/)                        | Leaf-Similar Trees                        | easy       | python         |           |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/)                        | Middle of the Linked List                        | easy       | [python](🙂easy/0876.Middle-of-the-Linked-List/middle_of_the_linked_list.py)         |           |
 | [0894](https://leetcode.com/problems/all-possible-full-binary-trees/)                        | All Possible Full Binary Trees                        | medium       | [python](🤔medium/0894.All-Possible-Full-Binary-Trees/all_possible_full_binary_trees.py)         |           |
+| [0896](https://leetcode.com/problems/monotonic-array/)                        | Monotonic Array                        | easy       | [python](🙂easy/0896.Monotonic-Array/monotonic_array.py)         |           |
 | [0905](https://leetcode.com/problems/sort-array-by-parity/)                                  | Sort Array By Parity                      | easy       | golang         |           |
 | [0921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)     | Minimum Add to Make Parentheses Valid     | medium     | golang         |           |
 | [0929](https://leetcode.com/problems/unique-email-addresses/description/)                    | Unique Email Addresses                    | easy       | golang         |           |
