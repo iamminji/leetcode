@@ -27,11 +27,6 @@ class Solution:
         res = 0
 
         # 양 쪽 height 부터 시작하여 height 가 작은 쪽의 인덱스를 증가/감소 시켜가며 넓이 값을 최댓값으로 갱신해준다.
-        # 작은 쪽으로 옮기는 이유는 큰 height 를 옮기는 것은 의미가 없기 때문이다.
-        # 가장 큰 넓이는 (j - i) * min(height[j], height[i]) 가 가장 큰 값을 찾는 것인데 큰 height 를 옮기면 무조건 현재 넓이보다 같거나 작아진다.
-        # 너비는 -1 이 되었는데 높이의 변화가 음수 가 되면 의미가 없다.
-        # height 가 같으면 j,i 둘 중 하나만 값을 변화시켜주면 된다.
-
         while i < j:
             # 넓이 구하기
             res = max(res, (j - i) * min(height[i], height[j]))
