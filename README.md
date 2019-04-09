@@ -28,6 +28,7 @@
 | [0070](https://leetcode.com/problems/climbing-stairs/description/)                           | Climbing Stairs                           | easy       | python         |           |
 | [0075](https://leetcode.com/problems/sort-colors/description/)                               | Sort Colors                               | medium     | python         |           |
 | [0079](https://leetcode.com/problems/word-search/description/)                               | Word Search                               | medium     | python         |           |
+| [0088](https://leetcode.com/problems/merge-sorted-array/)                               | Merge Sorted Array                               | easy     | [python](🙂easy/0088.Merge-Sorted-Array/merge_sorted_array.py)         |           |
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)             | Binary Tree Inorder Traversal             | medium     | python         |           |
 | [0096](https://leetcode.com/problems/unique-binary-search-trees/)             | Unique Binary Search Trees             | medium     | [python](🤔medium/0096.Unique-Binary-Search-Trees/unique_binary_search_trees.py)         |           |
 | [0100](https://leetcode.com/problems/same-tree/)  | Same Tree  | easy     | [python](🙂easy/0100.Same-Tree/same_tree.py)         |           |
