@@ -103,6 +103,7 @@
 | [0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | Longest Continuous Increasing Subsequence | easy       | java           |           |
 | [0693](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)       | Binary Number with Alternating Bits       | easy       | python         |           |
 | [0695](https://leetcode.com/problems/max-area-of-island/description/)                        | Max Area of Island                        | easy       | python         |           |
+| [0696](https://leetcode.com/problems/count-binary-substrings/)                        | Count Binary Substrings                        | easy       | [python](🙂easy/0696.Count-Binary-Substrings/count_binary_substrings.py)         |           |
 | [0700](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                    | Search in a Binary Search Tree                        | easy       | [python](🙂easy/0700.Search-in-a-Binary-Search-Tree/search_in_a_binary_search_tree.py)         |           |
 | [0707](https://leetcode.com/problems/design-linked-list/)                                    | Design Linked List                        | easy       | golang         |           |
 | [0709](https://leetcode.com/problems/to-lower-case/description/)                             | To Lower Case                             | easy       | golang         |           |
