@@ -105,6 +105,7 @@
 | [0695](https://leetcode.com/problems/max-area-of-island/description/)                        | Max Area of Island                        | easy       | python         |           |
 | [0696](https://leetcode.com/problems/count-binary-substrings/)                        | Count Binary Substrings                        | easy       | [python](🙂easy/0696.Count-Binary-Substrings/count_binary_substrings.py)         |           |
 | [0700](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                    | Search in a Binary Search Tree                        | easy       | [python](🙂easy/0700.Search-in-a-Binary-Search-Tree/search_in_a_binary_search_tree.py)         |           |
+| [0701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                                    | Insert into a Binary Search Tree                        | medium       | [python](🤔medium/0701.Insert-into-a-Binary-Search-Tree/insert_into_a_binary_search_tree.py)         |           |
 | [0707](https://leetcode.com/problems/design-linked-list/)                                    | Design Linked List                        | easy       | golang         |           |
 | [0709](https://leetcode.com/problems/to-lower-case/description/)                             | To Lower Case                             | easy       | golang         |           |
 | [0728](https://leetcode.com/problems/self-dividing-numbers/description/)                     | Self Dividing Numbers                     | easy       | python         |           |
