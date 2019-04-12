@@ -79,6 +79,7 @@
 | [0492](https://leetcode.com/problems/construct-the-rectangle/)                               | Construct the Rectangle                   | easy       | golang         |           |
 | [0494](https://leetcode.com/problems/target-sum/)                                            | Target Sum                                | medium     | python, java   |           |
 | [0495](https://leetcode.com/problems/teemo-attacking/description/)                           | Teemo Attacking                           | medium     | python         |           |
+| [0500](https://leetcode.com/problems/keyboard-row/)                       | Keyboard Row           | easy       | [python](🙂easy/0500.Keyboard-Row/keyboard_row.py)         |           |
 | [0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)                       | Find Mode in Binary Search Tree           | easy       | python         |           |
 | [0503](https://leetcode.com/problems/next-greater-element-ii/)                               | Next Greater Element II                   | medium     | python, java   |           |
 | [0508](https://leetcode.com/problems/most-frequent-subtree-sum/)                             | Most Frequent Subtree Sum                 | medium     | python         |           |
