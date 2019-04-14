@@ -149,3 +149,4 @@
 | [0965](https://leetcode.com/problems/univalued-binary-tree/)                                 | Univalued Binary Tree                     | easy       | golang         |           |
 | [0977](https://leetcode.com/problems/squares-of-a-sorted-array/)                             | Squares of a Sorted Array                 | easy       | golang         |           |
 | [1002](https://leetcode.com/problems/find-common-characters/)                             | Find Common Characters                 | easy       | [python](🙂easy/1002.Find-Common-Characters/find_common_characters.py)        |           |
+| [1021](https://leetcode.com/problems/remove-outermost-parentheses/)                             | Remove Outermost Parentheses                 | easy       | [python](🙂easy/1021.Remove-Outermost-Parentheses/remove_outermost_parentheses.py)        |           |
