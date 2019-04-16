@@ -36,6 +36,7 @@
 | [0103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)  | Binary Tree Zigzag Level Order Traversal  | medium     | python         |           |
 | [0107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)      | Binary Tree Level Order Traversal II      | easy       | python         |           |
 | [0111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)      |  Minimum Depth of Binary Tree      | easy       | [python](🙂easy/0111.Minimum-Depth-of-Binary-Tree/minimum_depth_of_binary_tree.py)         |    tree       |
+| [0120](https://leetcode.com/problems/triangle/)         | Triangle        | medium       | [python](🤔medium/0120.Triangle/triangle.py)         |           |
 | [0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | Best Time to Buy and Sell Stock        | easy       | [python](🙂easy/0121.Best-Time-to-Buy-and-Sell-Stock/best_time_to_buy_and_sell_stock.py)         |           |
 | [0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description)         | Best Time to Buy and Sell Stock II        | easy       | python         |           |
 | [0139](https://leetcode.com/problems/word-break/description/)                                | Word Break                                | medium     | python         |           |
