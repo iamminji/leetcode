@@ -70,4 +70,4 @@ class Solution:
 
 if __name__ == '__main__':
     sol = Solution()
-    print(sol.dailyTemperatures2([73, 74, 75, 71, 69, 72, 76, 73]))
+    print(sol.dailyTemperatures([73, 74, 75, 71, 69, 72, 76, 73]))
