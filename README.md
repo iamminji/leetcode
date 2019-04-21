@@ -117,6 +117,7 @@
 | [0728](https://leetcode.com/problems/self-dividing-numbers/description/)                     | Self Dividing Numbers                     | easy       | python         |           |
 | [0731](https://leetcode.com/problems/my-calendar-ii/description/)                            | My Calendar II                            | medium     | python         |           |
 | [0733](https://leetcode.com/problems/flood-fill/)                            | Flood Fill                            | easy     | [python](🙂easy/0733.Flood-Fill/flood_fill.py)         |           |
+| [0739](https://leetcode.com/problems/daily-temperatures/)                            | Daily Temperatures                            | medium     | [python](🤔medium/0739.Daily-Temperatures/daily_temperatures.py)         |           |
 | [0743](https://leetcode.com/problems/network-delay-time/)                            | Network Delay Time                            | easy     | [python](🙂easy/0743.Network-Delay-Time/network_delay_time_dfs.py)         |           |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                  | Min Cost Climbing Stairs                  | easy       | java           |           |
 | [0747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)   | Largest Number At Least Twice of Others   | easy       | python         |           |
