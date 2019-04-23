@@ -35,6 +35,7 @@
 | [0094](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)             | Binary Tree Inorder Traversal             | medium     | python         |           |
 | [0096](https://leetcode.com/problems/unique-binary-search-trees/)             | Unique Binary Search Trees             | medium     | [python](🤔medium/0096.Unique-Binary-Search-Trees/unique_binary_search_trees.py)         |           |
 | [0100](https://leetcode.com/problems/same-tree/)  | Same Tree  | easy     | [python](🙂easy/0100.Same-Tree/same_tree.py)         |           |
+| [0101](https://leetcode.com/problems/symmetric-tree/submissions/)  | Symmetric Tree  | easy     | [python](🙂easy/0101.Symmetric-Tree/symmetric_tree.py)         |           |
 | [0103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)  | Binary Tree Zigzag Level Order Traversal  | medium     | python         |           |
 | [0107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)      | Binary Tree Level Order Traversal II      | easy       | python         |           |
 | [0111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)      |  Minimum Depth of Binary Tree      | easy       | [python](🙂easy/0111.Minimum-Depth-of-Binary-Tree/minimum_depth_of_binary_tree.py)         |    tree       |
@@ -55,6 +56,7 @@
 | [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/)                       | Kth Largest Element in an Array                       | medium       | [python](🤔medium/0215.Kth-Largest-Element-in-an-Array/kth_largest_element_in_an_array.py)         |           |
 | [0226](https://leetcode.com/problems/invert-binary-tree/description/)                        | Invert Binary Tree                        | easy       | python         |           |
 | [0229](https://leetcode.com/problems/majority-element-ii/description/)                       | Majority Element II                       | medium     | python         |           |
+| [0231](https://leetcode.com/problems/power-of-two/)              | Power of Two              | easy     | [python](🙂easy/0231.Power-of-Two/power_of_two.py)         |           |
 | [0238](https://leetcode.com/problems/product-of-array-except-self/description/)              | Product of Array Except Self              | medium     | python         |           |
 | [0242](https://leetcode.com/problems/valid-anagram/description/)                             | Valid Anagram                             | easy       | python         |           |
 | [0257](https://leetcode.com/problems/binary-tree-paths/)                             | Binary Tree Paths                             | easy       | [python](🙂easy/0257.Binary-Tree-Paths/binary_tree_paths.py)         |           |
@@ -117,6 +119,7 @@
 | [0728](https://leetcode.com/problems/self-dividing-numbers/description/)                     | Self Dividing Numbers                     | easy       | python         |           |
 | [0731](https://leetcode.com/problems/my-calendar-ii/description/)                            | My Calendar II                            | medium     | python         |           |
 | [0733](https://leetcode.com/problems/flood-fill/)                            | Flood Fill                            | easy     | [python](🙂easy/0733.Flood-Fill/flood_fill.py)         |           |
+| [0739](https://leetcode.com/problems/daily-temperatures/)                            | Daily Temperatures                            | medium     | [python](🤔medium/0739.Daily-Temperatures/daily_temperatures.py)         |           |
 | [0743](https://leetcode.com/problems/network-delay-time/)                            | Network Delay Time                            | easy     | [python](🙂easy/0743.Network-Delay-Time/network_delay_time_dfs.py)         |           |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                  | Min Cost Climbing Stairs                  | easy       | java           |           |
 | [0747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)   | Largest Number At Least Twice of Others   | easy       | python         |           |
