@@ -16,6 +16,7 @@
 | [0013](https://leetcode.com/problems/roman-to-integer/description/)                          | Roman to Integer                          | easy       | python         |           |
 | [0014](https://leetcode.com/problems/longest-common-prefix/)                          | Longest Common Prefix                          | easy       | [python](🙂easy/0014.Longest-Common-Prefix/longest_common_prefix.py)         |           |
 | [0015](https://leetcode.com/problems/3sum/)                          | 3Sum                          | medium       | [python](🤔medium/0015.3Sum/3sum.py)         |           |
+| [0016](https://leetcode.com/problems/3sum-closest/)                          | 3Sum Closest                          | medium       | [python](🤔medium/0016.3Sum-Closest/3sum_closest.py)         |           |
 | [0020](https://leetcode.com/problems/valid-parentheses/description/)                         | Valid Parentheses                         | easy       | python         |           |
 | [0021](https://leetcode.com/problems/merge-two-sorted-lists/description/)                    | Merge Two Sorted Lists                    | easy       | python         |           |
 | [0022](https://leetcode.com/problems/generate-parentheses/description/)                      | Generate Parentheses                      | medium     | python         |           |
