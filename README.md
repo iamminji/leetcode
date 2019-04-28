@@ -153,6 +153,7 @@
 | [0921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)     | Minimum Add to Make Parentheses Valid     | medium     | golang         |           |
 | [0922](https://leetcode.com/problems/sort-array-by-parity-ii/)     | Sort Array By Parity II     | easy     | [python](🙂easy/0922.Sort-Array-By-Parity-II/sort_array_by_parity_II.py)         |           |
 | [0929](https://leetcode.com/problems/unique-email-addresses/description/)                    | Unique Email Addresses                    | easy       | golang         |           |
+| [0931](https://leetcode.com/problems/minimum-falling-path-sum/)                    | Minimum Falling Path Sum                    | medium       | [python](🤔medium/0931.Minimum-Falling-Path-Sum/minimum_falling_path_sum.py)         |           |
 | [0938](https://leetcode.com/problems/range-sum-of-bst/)                    | Range Sum of BST                    | easy       | [python](🙂easy/0938.Range-Sum-of-BST/range_sum_of_BST.py)         |           |
 | [0941](https://leetcode.com/problems/valid-mountain-array/)                    | Valid Mountain Array                    | easy       | [python](🙂easy/0941.Valid-Mountain-Array/valid_mountain_array.py)         |           |
 | [0942](https://leetcode.com/problems/di-string-match/)                    | DI String Match                    | easy       | [python](🙂easy/0942.DI-String-Match/di_string_match.py)         |           |
