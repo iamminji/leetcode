@@ -22,7 +22,7 @@ class Solution:
             if self.dfs(target - num, candidates, result, r):
                 result.append(r)
 
-        return []
+        return False
 
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
 
