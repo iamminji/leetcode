@@ -45,6 +45,7 @@
 | [0120](https://leetcode.com/problems/triangle/)         | Triangle        | medium       | [python](🤔medium/0120.Triangle/triangle.py)         |           |
 | [0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | Best Time to Buy and Sell Stock        | easy       | [python](🙂easy/0121.Best-Time-to-Buy-and-Sell-Stock/best_time_to_buy_and_sell_stock.py)         |           |
 | [0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description)         | Best Time to Buy and Sell Stock II        | easy       | python         |           |
+| [0125](https://leetcode.com/problems/valid-palindrome/)         | Valid Palindrome        | easy       | [python]()         |           |
 | [0139](https://leetcode.com/problems/word-break/description/)                                | Word Break                                | medium     | python         |           |
 | [0141](https://leetcode.com/problems/linked-list-cycle/description)                          | Linked List Cycle                         | easy       | python         |           |
 | [0169](https://leetcode.com/problems/majority-element/description/)                          | Majority Element                          | easy       | python         |           |
