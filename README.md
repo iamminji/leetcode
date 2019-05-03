@@ -46,6 +46,7 @@
 | [0120](https://leetcode.com/problems/triangle/)         | Triangle        | medium       | [python](🤔medium/0120.Triangle/triangle.py)         |           |
 | [0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | Best Time to Buy and Sell Stock        | easy       | [python](🙂easy/0121.Best-Time-to-Buy-and-Sell-Stock/best_time_to_buy_and_sell_stock.py)         |           |
 | [0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description)         | Best Time to Buy and Sell Stock II        | easy       | python         |           |
+| [0125](https://leetcode.com/problems/valid-palindrome/)         | Valid Palindrome        | easy       | [python]()         |           |
 | [0139](https://leetcode.com/problems/word-break/description/)                                | Word Break                                | medium     | python         |           |
 | [0141](https://leetcode.com/problems/linked-list-cycle/description)                          | Linked List Cycle                         | easy       | python         |           |
 | [0169](https://leetcode.com/problems/majority-element/description/)                          | Majority Element                          | easy       | python         |           |
@@ -94,6 +95,7 @@
 | [0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)                       | Find Mode in Binary Search Tree           | easy       | python         |           |
 | [0503](https://leetcode.com/problems/next-greater-element-ii/)                               | Next Greater Element II                   | medium     | python, java   |           |
 | [0508](https://leetcode.com/problems/most-frequent-subtree-sum/)                             | Most Frequent Subtree Sum                 | medium     | python         |           |
+| [0513](https://leetcode.com/problems/find-bottom-left-tree-value/)                             | Find Bottom Left Tree Value                 | medium     | [python](🤔medium/0513.Find-Bottom-Left-Tree-Value/find_bottom_left_tree_value.py)         |           |
 | [0518](https://leetcode.com/problems/coin-change-2/description)                              | Coin Change 2                             | medium     | python         |           |
 | [0532](https://leetcode.com/problems/k-diff-pairs-in-an-array/)                              | K-diff Pairs in an Array                  | easy       | python         |           |
 | [0538](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)               | Convert BST to Greater Tree               | easy       | python         |           |
