@@ -39,6 +39,7 @@
 | [0096](https://leetcode.com/problems/unique-binary-search-trees/)             | Unique Binary Search Trees             | medium     | [python](🤔medium/0096.Unique-Binary-Search-Trees/unique_binary_search_trees.py)         |           |
 | [0100](https://leetcode.com/problems/same-tree/)  | Same Tree  | easy     | [python](🙂easy/0100.Same-Tree/same_tree.py)         |           |
 | [0101](https://leetcode.com/problems/symmetric-tree/submissions/)  | Symmetric Tree  | easy     | [python](🙂easy/0101.Symmetric-Tree/symmetric_tree.py)         |           |
+| [0102](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | Binary Tree Level Order Traversal | medium     | [python](🤔medium/0102.Binary-Tree-Level-Order-Traversal/binary_tree_level_order_traversal.py)         |           |
 | [0103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)  | Binary Tree Zigzag Level Order Traversal  | medium     | python         |           |
 | [0107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)      | Binary Tree Level Order Traversal II      | easy       | python         |           |
 | [0111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)      |  Minimum Depth of Binary Tree      | easy       | [python](🙂easy/0111.Minimum-Depth-of-Binary-Tree/minimum_depth_of_binary_tree.py)         |    tree       |
