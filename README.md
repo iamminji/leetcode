@@ -66,6 +66,7 @@
 | [0242](https://leetcode.com/problems/valid-anagram/description/)                             | Valid Anagram                             | easy       | python         |           |
 | [0257](https://leetcode.com/problems/binary-tree-paths/)                             | Binary Tree Paths                             | easy       | [python](🙂easy/0257.Binary-Tree-Paths/binary_tree_paths.py)         |           |
 | [0279](https://leetcode.com/problems/perfect-squares/)                             | Perfect Squares                             | medium       | [python](🤔medium/0279.Perfect-Squares/perfect_squares.py)         |           |
+| [0290](https://leetcode.com/problems/word-pattern/)                             | Word Pattern                             | easy       | [python](🙂easy/0290.Word-Pattern/word_pattern.py)         |           |
 | [0322](https://leetcode.com/problems/coin-change/)                            | Coin Change                            | medium     | [python](🤔medium/0322.Coin-Change/coin_change.py)         |    dp       |
 | [0324](https://leetcode.com/problems/wiggle-sort-ii/description/)                            | Wiggle Sort II                            | medium     | python         |           |
 | [0328](https://leetcode.com/problems/odd-even-linked-list/)                            | Odd Even Linked List                            | medium     | [python](🤔medium/0328.Odd-Even-Linked-List/odd_even_linked_list.py)         |   linked list        |
