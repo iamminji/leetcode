@@ -73,6 +73,7 @@
 | [0328](https://leetcode.com/problems/odd-even-linked-list/)                            | Odd Even Linked List                            | medium     | [python](🤔medium/0328.Odd-Even-Linked-List/odd_even_linked_list.py)         |   linked list        |
 | [0337](https://leetcode.com/problems/house-robber-iii/)                                      | House Robber III                          | medium     | golang         |           |
 | [0338](https://leetcode.com/problems/counting-bits/description/)                             | Counting Bits                             | easy       | python         |           |
+| [0344](https://leetcode.com/problems/reverse-string/)                   | Reverse String                   | easy     | [java](🙂easy/0344.Reverse-String/ReverseString.java)         |           |
 | [0345](https://leetcode.com/problems/reverse-vowels-of-a-string/)                   | Reverse Vowels of a String                   | easy     | [python](🙂easy/0345.Reverse-Vowels-of-a-String/reverse_vowels_of_a_string.py)         |           |
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/description/)                   | Top K Frequent Elements                   | medium     | python         |           |
 | [0349](https://leetcode.com/problems/intersection-of-two-arrays/)                   | Intersection of Two Arrays                   | easy     | [python](🙂easy/0349.Intersection-of-Two-Arrays/intersection_of_two_arrays.py)         |           |
