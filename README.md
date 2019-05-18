@@ -112,6 +112,7 @@
 | [0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)     | Shortest Unsorted Continuous Subarray     | easy       | python         |           |
 | [0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                         | N-ary Tree Preorder Traversal     | easy       | [python](🙂easy/0589.N-ary-Tree-Preorder-Traversal/n-ary_tree_preorder_traversal.py)         |           |
 | [0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                        | N-ary Tree Postorder Traversal     | easy       | [python](🙂easy/0590.N-ary-Tree-Postorder-Traversal/n-ary_tree_postorder_traversal.py)         |           |
+| [0595](https://leetcode.com/problems/big-countries/)                        | Big Countries     | easy       | [sql](🙂easy/0595.Big-Countries/big_countries.sql)         |           |
 | [0599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                        | Minimum Index Sum of Two Lists     | easy       | [python](🙂easy/0599.Minimum-Index-Sum-of-Two-Lists/minimum_index_sum_of_two_lists.py)         |           |
 | [0605](https://leetcode.com/problems/can-place-flowers/)                                     | Can Place Flowers                         | easy       | golang         |           |
 | [0621](https://leetcode.com/problems/task-scheduler/)                                     | Task Scheduler                         | medium       | [python](🤔medium/0621.Task-Scheduler/task_scheduler.py)         |           |
