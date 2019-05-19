@@ -116,6 +116,7 @@
 | [0599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                        | Minimum Index Sum of Two Lists     | easy       | [python](🙂easy/0599.Minimum-Index-Sum-of-Two-Lists/minimum_index_sum_of_two_lists.py)         |           |
 | [0605](https://leetcode.com/problems/can-place-flowers/)                                     | Can Place Flowers                         | easy       | golang         |           |
 | [0621](https://leetcode.com/problems/task-scheduler/)                                     | Task Scheduler                         | medium       | [python](🤔medium/0621.Task-Scheduler/task_scheduler.py)         |           |
+| [0627](https://leetcode.com/problems/swap-salary/)                                     | Swap Salary                         | easy       | [sql](🙂easy/0627.Swap-Salary/swap_salary.sql)         |           |
 | [0641](https://leetcode.com/problems/design-circular-deque/)                                 | Design Circular Deque                     | medium     | golang         |           |
 | [0643](https://leetcode.com/problems/maximum-average-subarray-i/#/description)               | Maximum Average Subarray I                | easy       | python         |           |
 | [0655](https://leetcode.com/problems/print-binary-tree/description/)                         | Print Binary Tree                         | medium     | python         |           |
