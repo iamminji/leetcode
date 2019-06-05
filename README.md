@@ -123,6 +123,7 @@
 | [0701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                                    | Insert into a Binary Search Tree                        | medium       | [python](🤔medium/0701.Insert-into-a-Binary-Search-Tree/insert_into_a_binary_search_tree.py)         |           |
 | [0707](https://leetcode.com/problems/design-linked-list/)                                    | Design Linked List                        | easy       | golang         |           |
 | [0709](https://leetcode.com/problems/to-lower-case/description/)                             | To Lower Case                             | easy       | golang         |           |
+| [0711](https://leetcode.com/problems/jewels-and-stones/)                             | Jewels and Stones                             | easy       | [java](🙂easy/0711.Jewels-and-Stones/Solution.java)         |           |
 | [0728](https://leetcode.com/problems/self-dividing-numbers/description/)                     | Self Dividing Numbers                     | easy       | python         |           |
 | [0731](https://leetcode.com/problems/my-calendar-ii/description/)                            | My Calendar II                            | medium     | python         |           |
 | [0733](https://leetcode.com/problems/flood-fill/)                            | Flood Fill                            | easy     | [python](🙂easy/0733.Flood-Fill/flood_fill.py)         |           |
