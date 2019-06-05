@@ -26,6 +26,7 @@
 | [0035](https://leetcode.com/problems/search-insert-position/)            | Search Insert Position            | easy     | [python](🙂easy/0035.Search-Insert-Position/search_insert_position.py)         |           |
 | [0039](https://leetcode.com/problems/combination-sum/)            | Combination Sum            | medium     | [python](🤔medium/0039.Combination-Sum/combination_sum.py)         |           |
 | [0046](https://leetcode.com/problems/permutations/)                                          | Permutations                              | medium     | golang         |           |
+| [0048](https://leetcode.com/problems/rotate-image/)                                          | Rotate Image                              | medium     | [python](🤔medium/0048.Rotate-Image/rotate_image.py)         |           |
 | [0051](https://leetcode.com/problems/n-queens/description/)                                  | N-Queens                                  | hard       | python         |           |
 | [0053](https://leetcode.com/problems/maximum-subarray/)                                  | Maximum Subarray                                  | easy       | [python](🙂easy/0053.Maximum-Subarray/maximum_subarray.py)         |           |
 | [0055](https://leetcode.com/problems/jump-game/description/)                                 | Jump Game                                 | medium     | golang         |           |
@@ -66,11 +67,13 @@
 | [0242](https://leetcode.com/problems/valid-anagram/description/)                             | Valid Anagram                             | easy       | python         |           |
 | [0257](https://leetcode.com/problems/binary-tree-paths/)                             | Binary Tree Paths                             | easy       | [python](🙂easy/0257.Binary-Tree-Paths/binary_tree_paths.py)         |           |
 | [0279](https://leetcode.com/problems/perfect-squares/)                             | Perfect Squares                             | medium       | [python](🤔medium/0279.Perfect-Squares/perfect_squares.py)         |           |
+| [0290](https://leetcode.com/problems/word-pattern/)                             | Word Pattern                             | easy       | [python](🙂easy/0290.Word-Pattern/word_pattern.py)         |           |
 | [0322](https://leetcode.com/problems/coin-change/)                            | Coin Change                            | medium     | [python](🤔medium/0322.Coin-Change/coin_change.py)         |    dp       |
 | [0324](https://leetcode.com/problems/wiggle-sort-ii/description/)                            | Wiggle Sort II                            | medium     | python         |           |
 | [0328](https://leetcode.com/problems/odd-even-linked-list/)                            | Odd Even Linked List                            | medium     | [python](🤔medium/0328.Odd-Even-Linked-List/odd_even_linked_list.py)         |   linked list        |
 | [0337](https://leetcode.com/problems/house-robber-iii/)                                      | House Robber III                          | medium     | golang         |           |
 | [0338](https://leetcode.com/problems/counting-bits/description/)                             | Counting Bits                             | easy       | python         |           |
+| [0344](https://leetcode.com/problems/reverse-string/)                   | Reverse String                   | easy     | [java](🙂easy/0344.Reverse-String/ReverseString.java)         |           |
 | [0345](https://leetcode.com/problems/reverse-vowels-of-a-string/)                   | Reverse Vowels of a String                   | easy     | [python](🙂easy/0345.Reverse-Vowels-of-a-String/reverse_vowels_of_a_string.py)         |           |
 | [0347](https://leetcode.com/problems/top-k-frequent-elements/description/)                   | Top K Frequent Elements                   | medium     | python         |           |
 | [0349](https://leetcode.com/problems/intersection-of-two-arrays/)                   | Intersection of Two Arrays                   | easy     | [python](🙂easy/0349.Intersection-of-Two-Arrays/intersection_of_two_arrays.py)         |           |
@@ -95,6 +98,7 @@
 | [0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)                       | Find Mode in Binary Search Tree           | easy       | python         |           |
 | [0503](https://leetcode.com/problems/next-greater-element-ii/)                               | Next Greater Element II                   | medium     | python, java   |           |
 | [0508](https://leetcode.com/problems/most-frequent-subtree-sum/)                             | Most Frequent Subtree Sum                 | medium     | python         |           |
+| [0509](https://leetcode.com/problems/fibonacci-number/)                             | Fibonacci Number                 | easy     | [python](🙂easy/0509.Fibonacci-Number/fibonacci_number.py)         |           |
 | [0513](https://leetcode.com/problems/find-bottom-left-tree-value/)                             | Find Bottom Left Tree Value                 | medium     | [python](🤔medium/0513.Find-Bottom-Left-Tree-Value/find_bottom_left_tree_value.py)         |           |
 | [0518](https://leetcode.com/problems/coin-change-2/description)                              | Coin Change 2                             | medium     | python         |           |
 | [0532](https://leetcode.com/problems/k-diff-pairs-in-an-array/)                              | K-diff Pairs in an Array                  | easy       | python         |           |
@@ -108,9 +112,11 @@
 | [0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)     | Shortest Unsorted Continuous Subarray     | easy       | python         |           |
 | [0589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)                         | N-ary Tree Preorder Traversal     | easy       | [python](🙂easy/0589.N-ary-Tree-Preorder-Traversal/n-ary_tree_preorder_traversal.py)         |           |
 | [0590](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)                        | N-ary Tree Postorder Traversal     | easy       | [python](🙂easy/0590.N-ary-Tree-Postorder-Traversal/n-ary_tree_postorder_traversal.py)         |           |
+| [0595](https://leetcode.com/problems/big-countries/)                        | Big Countries     | easy       | [sql](🙂easy/0595.Big-Countries/big_countries.sql)         |           |
 | [0599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                        | Minimum Index Sum of Two Lists     | easy       | [python](🙂easy/0599.Minimum-Index-Sum-of-Two-Lists/minimum_index_sum_of_two_lists.py)         |           |
 | [0605](https://leetcode.com/problems/can-place-flowers/)                                     | Can Place Flowers                         | easy       | golang         |           |
 | [0621](https://leetcode.com/problems/task-scheduler/)                                     | Task Scheduler                         | medium       | [python](🤔medium/0621.Task-Scheduler/task_scheduler.py)         |           |
+| [0627](https://leetcode.com/problems/swap-salary/)                                     | Swap Salary                         | easy       | [sql](🙂easy/0627.Swap-Salary/swap_salary.sql)         |           |
 | [0641](https://leetcode.com/problems/design-circular-deque/)                                 | Design Circular Deque                     | medium     | golang         |           |
 | [0643](https://leetcode.com/problems/maximum-average-subarray-i/#/description)               | Maximum Average Subarray I                | easy       | python         |           |
 | [0655](https://leetcode.com/problems/print-binary-tree/description/)                         | Print Binary Tree                         | medium     | python         |           |
@@ -124,11 +130,12 @@
 | [0707](https://leetcode.com/problems/design-linked-list/)                                    | Design Linked List                        | easy       | golang         |           |
 | [0709](https://leetcode.com/problems/to-lower-case/description/)                             | To Lower Case                             | easy       | golang         |           |
 | [0711](https://leetcode.com/problems/jewels-and-stones/)                             | Jewels and Stones                             | easy       | [java](🙂easy/0711.Jewels-and-Stones/Solution.java)         |           |
+| [0718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)                             | Maximum Length of Repeated Subarray                             | medium       | [python](🤔medium/0718.Maximum-Length-of-Repeated-Subarray/maximum_length_of_repeated_subarray.py)         |           |
 | [0728](https://leetcode.com/problems/self-dividing-numbers/description/)                     | Self Dividing Numbers                     | easy       | python         |           |
 | [0731](https://leetcode.com/problems/my-calendar-ii/description/)                            | My Calendar II                            | medium     | python         |           |
 | [0733](https://leetcode.com/problems/flood-fill/)                            | Flood Fill                            | easy     | [python](🙂easy/0733.Flood-Fill/flood_fill.py)         |           |
 | [0739](https://leetcode.com/problems/daily-temperatures/)                            | Daily Temperatures                            | medium     | [python](🤔medium/0739.Daily-Temperatures/daily_temperatures.py)         |           |
-| [0743](https://leetcode.com/problems/network-delay-time/)                            | Network Delay Time                            | easy     | [python](🙂easy/0743.Network-Delay-Time/network_delay_time_dfs.py)         |           |
+| [0743](https://leetcode.com/problems/network-delay-time/)                            | Network Delay Time                            | medium     | [python](🤔medium/0743.Network-Delay-Time/network_delay_time_dfs.py)         |           |
 | [0746](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                  | Min Cost Climbing Stairs                  | easy       | java           |           |
 | [0747](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)   | Largest Number At Least Twice of Others   | easy       | python         |           |
 | [0759](https://leetcode.com/problems/employee-free-time/description/)                        | Employee-Free-Time                        | hard       | python         |           |
@@ -166,6 +173,8 @@
 | [0961](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)                                 | N-Repeated Element in Size 2N Array                     | easy       | [python](🙂easy/0961.N-Repeated-Element-in-Size-2N-Array/n-repeated_element_in_size_2n_array.py)         |           |
 | [0965](https://leetcode.com/problems/univalued-binary-tree/)                                 | Univalued Binary Tree                     | easy       | golang         |           |
 | [0977](https://leetcode.com/problems/squares-of-a-sorted-array/)                             | Squares of a Sorted Array                 | easy       | golang         |           |
+| [0989](https://leetcode.com/problems/add-to-array-form-of-integer/)                             | Add to Array-Form of Integer                 | easy       | [python](🙂easy/0989.Add-to-Array-Form-of-Integer/add_to_array_form_of_integer.py)         |           |
 | [0993](https://leetcode.com/problems/cousins-in-binary-tree/)                             | Cousins in Binary Tree                 | easy       | [python](🙂easy/0993.Cousins-in-Binary-Tree/cousins_in_binary_tree.py)         |           |
 | [1002](https://leetcode.com/problems/find-common-characters/)                             | Find Common Characters                 | easy       | [python](🙂easy/1002.Find-Common-Characters/find_common_characters.py)        |           |
 | [1021](https://leetcode.com/problems/remove-outermost-parentheses/)                             | Remove Outermost Parentheses                 | easy       | [python](🙂easy/1021.Remove-Outermost-Parentheses/remove_outermost_parentheses.py)        |           |
+| [1038](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)                             | Binary Search Tree to Greater Sum Tree                 | medium       | [python](🤔medium/1038.Binary-Search-Tree-to-Greater-Sum-Tree/binary_search_tree_to_greater_sum_tree.py)        |           |
