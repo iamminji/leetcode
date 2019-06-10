@@ -6,7 +6,7 @@
 
 | #                                                                                            | title                                     | difficulty | languages      |    tag    |
 |----------------------------------------------------------------------------------------------|-------------------------------------------|------------|----------------|-----------|
-| [0001](https://leetcode.com/problems/two-sum/)                                               | Two Sum                                   | easy       | python         |           |
+| [0001](https://leetcode.com/problems/two-sum/)                                               | Two Sum                                   | easy       | python, [java](🙂easy/0001.Two-Sum/Solution.java)         |           |
 | [0002](https://leetcode.com/problems/add-two-numbers/)                                               | Add Two Numbers                                   | medium       | [python](🤔medium/0002.Add-Two-Numbers/add_two_numbers.py)         |           |
 | [0003](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                               | Longest Substring Without Repeating Characters                                   | medium       | [python](🤔medium/0003.Longest-Substring-Without-Repeating-Characters/longest_substring_without_repeating_characters.py)         |           |
 | [0005](https://leetcode.com/problems/longest-palindromic-substring/)                                               | Longest Palindromic Substring                                   | medium       | [python](🤔medium/0005.Longest-Palindromic-Substring/longest_palindromic_substring.py)         |           |
