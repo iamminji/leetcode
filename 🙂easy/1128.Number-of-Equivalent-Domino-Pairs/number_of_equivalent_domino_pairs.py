@@ -2,6 +2,7 @@
 # https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 
 from typing import List
+from collections import defaultdict
 
 
 class Solution:
@@ -37,6 +38,23 @@ class Solution:
 
         return int(result)
 
+    def numEquivDominoPairs2(self, dominoes: List[List[int]]) -> int:
+        # numEquivDominoPairs 와 동일한 로직을 정리하였다.
+        # 사실 정렬까지 할 필요 없고 값은 2개이므로 pair 로 딕셔너리를 만들면 된다.
+        # 사실2 combination 함수 까지 구현할 필요 없고 무조건 2개 골라야 하므로 n * (n-1) / 2 를 하면 된다
+        d = defaultdict(int)
+
+        for domino in dominoes:
+            if domino[0] > domino[1]:
+                d[(domino[0], domino[1])] += 1
+            else:
+                d[(domino[1], domino[0])] += 1
+
+        result = 0
+        for _, v in d.items():
+            result += (v * (v - 1)) / 2
+        return int(result)
+
     def numEquivDominoPairsTLE(self, dominoes: List[List[int]]) -> int:
         # TLE
         res = 0
@@ -51,6 +69,6 @@ class Solution:
 
 if __name__ == '__main__':
     solution = Solution()
-    print(solution.numEquivDominoPairs([[1, 2], [2, 1], [3, 4], [5, 6]]))
-    print(solution.numEquivDominoPairs([[1, 2], [1, 2], [1, 1], [1, 2], [2, 2]]))
-    print(solution.numEquivDominoPairs([[2, 2], [2, 1], [2, 2], [2, 1], [2, 2], [1, 2], [2, 2], [1, 1], [1, 1]]))
+    print(solution.numEquivDominoPairs2([[1, 2], [2, 1], [3, 4], [5, 6]]))
+    print(solution.numEquivDominoPairs2([[1, 2], [1, 2], [1, 1], [1, 2], [2, 2]]))
+    print(solution.numEquivDominoPairs2([[2, 2], [2, 1], [2, 2], [2, 1], [2, 2], [1, 2], [2, 2], [1, 1], [1, 1]]))
