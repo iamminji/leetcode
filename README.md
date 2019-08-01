@@ -157,6 +157,7 @@
 | [0823](https://leetcode.com/problems/binary-trees-with-factors/description/)                 | Binary Trees With Factors                 | medium     | python         |           |
 | [0830](https://leetcode.com/problems/positions-of-large-groups/description/)                 | Positions of Large Groups                 | easy       | python         |           |
 | [0841](https://leetcode.com/problems/keys-and-rooms/)                 | Keys and Rooms                 | medium       | [python](🤔medium/0841.Keys-and-Rooms/keys_and_rooms.py)         |   dfs, graph        |
+| [0869](https://leetcode.com/problems/reordered-power-of-2/)                 | Reordered Power of 2                 | medium       | [python](🤔medium/0869.Reordered-Power-of-2/reordered_power_of_2.py)         |          |
 | [0872](https://leetcode.com/problems/leaf-similar-trees/)                        | Leaf-Similar Trees                        | easy       | python         |           |
 | [0876](https://leetcode.com/problems/middle-of-the-linked-list/)                        | Middle of the Linked List                        | easy       | [python](🙂easy/0876.Middle-of-the-Linked-List/middle_of_the_linked_list.py)         |           |
 | [0890](https://leetcode.com/problems/find-and-replace-pattern/)                        | Find and Replace Pattern                        | medium       | [python](🤔medium/0890.Find-and-Replace-Pattern/find_and_replace_pattern.py)         |           |
