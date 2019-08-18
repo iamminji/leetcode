@@ -2,27 +2,41 @@
 # https://leetcode.com/problems/course-schedule/
 
 from collections import defaultdict
+from typing import List
 
 
 class Solution:
-    WHITE = 0
-    GRAY = 1
 
-    def dfs(self, course, graph, color):
+    def dfs(self, node, graph, visited):
 
-        # 이미 방문 함
-        if color[course] == self.GRAY:
-            return False
+        if node not in graph:
+            return True
 
-    def canFinish(self, numCourses: 'int', prerequisites: 'List[List[int]]') -> 'bool':
+        for n in graph[node]:
+            if n in visited:
+                return visited[n] == 2
+            visited[n] = 1
+            if not self.dfs(n, graph, visited):
+                return False
+            visited[n] = 2
+
+        return True
+
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         graph = defaultdict(list)
-        color = defaultdict(int)
 
-        for num in range(numCourses):
-            color[num] = self.WHITE
+        for p in prerequisites:
+            graph[p[1]].append(p[0])
 
-        for course in prerequisites:
-            graph[course[0]].append(course[1])
+        visited = defaultdict(int)
+
+        for node in graph:
+            visited[node] = 1
+            if not self.dfs(node, graph, visited):
+                return False
+            visited[node] = 2
+
+        return True
 
 
 if __name__ == '__main__':

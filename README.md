@@ -59,6 +59,7 @@
 | [0203](https://leetcode.com/problems/remove-linked-list-elements/)                         | Remove Linked List Elements                         | easy     | [python](🙂easy/0203.Remove-Linked-List-Elements/remove_linked_list_elements.py)           |           |
 | [0205](https://leetcode.com/problems/isomorphic-strings/)                       | Isomorphic Strings                       | easy       | [python](🙂easy/0205.Isomorphic-Strings/isomorphic_strings.py)         |           |
 | [0206](https://leetcode.com/problems/reverse-linked-list/description/)                       | Reverse Linked List                       | easy       | python         |           |
+| [0207](https://leetcode.com/problems/course-schedule/)                       |  Course Schedule                       | medium       | [python](🤔medium/0207.Course-Schedule/course_schedule.py)         |           |
 | [0215](https://leetcode.com/problems/kth-largest-element-in-an-array/)                       | Kth Largest Element in an Array                       | medium       | [python](🤔medium/0215.Kth-Largest-Element-in-an-Array/kth_largest_element_in_an_array.py)         |           |
 | [0226](https://leetcode.com/problems/invert-binary-tree/description/)                        | Invert Binary Tree                        | easy       | python         |           |
 | [0229](https://leetcode.com/problems/majority-element-ii/description/)                       | Majority Element II                       | medium     | python         |           |
@@ -115,6 +116,7 @@
 | [0595](https://leetcode.com/problems/big-countries/)                        | Big Countries     | easy       | [sql](🙂easy/0595.Big-Countries/big_countries.sql)         |           |
 | [0599](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                        | Minimum Index Sum of Two Lists     | easy       | [python](🙂easy/0599.Minimum-Index-Sum-of-Two-Lists/minimum_index_sum_of_two_lists.py)         |           |
 | [0605](https://leetcode.com/problems/can-place-flowers/)                                     | Can Place Flowers                         | easy       | golang         |           |
+| [0617](https://leetcode.com/problems/merge-two-binary-trees/)                                     | Merge Two Binary Trees                         | easy       | [python](🙂easy/0617.Merge-Two-Binary-Trees/merge_two_binary_trees.py)         |           |
 | [0621](https://leetcode.com/problems/task-scheduler/)                                     | Task Scheduler                         | medium       | [python](🤔medium/0621.Task-Scheduler/task_scheduler.py)         |           |
 | [0627](https://leetcode.com/problems/swap-salary/)                                     | Swap Salary                         | easy       | [sql](🙂easy/0627.Swap-Salary/swap_salary.sql)         |           |
 | [0641](https://leetcode.com/problems/design-circular-deque/)                                 | Design Circular Deque                     | medium     | golang         |           |
