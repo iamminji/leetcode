@@ -6,7 +6,12 @@ from typing import List
 
 class Solution:
     def maxScoreSightseeingPair(self, A: List[int]) -> int:
-        res = 0
+        cur, res = 0, 0
+        for num in A:
+            res = max(res, cur + num)
+            # 현재값과 이전에 최대값 비교
+            # -1 을 해주는 이유는 진행하면서 거리가 1 만큼 줄어들기 때문
+            cur = max(cur, num) - 1
         return res
 
 
