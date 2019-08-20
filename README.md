@@ -50,6 +50,7 @@
 | [0125](https://leetcode.com/problems/valid-palindrome/)         | Valid Palindrome        | easy       | [python]()         |           |
 | [0139](https://leetcode.com/problems/word-break/description/)                                | Word Break                                | medium     | python         |           |
 | [0141](https://leetcode.com/problems/linked-list-cycle/description)                          | Linked List Cycle                         | easy       | python         |           |
+| [0155](https://leetcode.com/problems/min-stack/)                          | Min Stack                         | easy       | [python](🙂easy/0155.Min-Stack/min_stack.py)         |           |
 | [0169](https://leetcode.com/problems/majority-element/description/)                          | Majority Element                          | easy       | python         |           |
 | [0179](https://leetcode.com/problems/largest-number/description/)                            | Largest Number                            | medium     | python         |           |
 | [0182](https://leetcode.com/problems/duplicate-emails/)                            | Duplicate Emails                            | easy     | [sql](🙂easy/0182.Duplicate-Emails/duplicate_emails.sql)         |           |
@@ -108,6 +109,7 @@
 | [0543](https://leetcode.com/problems/diameter-of-binary-tree/description/)                   | Diameter of Binary Tree                   | easy       | python         |           |
 | [0551](https://leetcode.com/problems/student-attendance-record-i/description)                | Student Attendance Record I               | easy       | python         |           |
 | [0553](https://leetcode.com/problems/optimal-division/description)                           | Optimal Division                          | medium     | python         |           |
+| [0559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)                           | Maximum Depth of N-ary Tree                          | easy     | [python](🙂easy/0559.Maximum-Depth-of-N-ary-Tree/maximum_depth_of_N_ary_tree.py)         |           |
 | [0565](https://leetcode.com/problems/array-nesting/)                                         | Array Nesting                             | medium     | golang         |           |
 | [0572](https://leetcode.com/problems/subtree-of-another-tree/description/)                   | Subtree of Another Tree                   | easy       | python         |           |
 | [0581](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/description/)     | Shortest Unsorted Continuous Subarray     | easy       | python         |           |
