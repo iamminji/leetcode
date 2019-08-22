@@ -30,6 +30,7 @@
 | [0051](https://leetcode.com/problems/n-queens/description/)                                  | N-Queens                                  | hard       | python         |           |
 | [0053](https://leetcode.com/problems/maximum-subarray/)                                  | Maximum Subarray                                  | easy       | [python](🙂easy/0053.Maximum-Subarray/maximum_subarray.py)         |           |
 | [0055](https://leetcode.com/problems/jump-game/description/)                                 | Jump Game                                 | medium     | golang         |           |
+| [0064](https://leetcode.com/problems/minimum-path-sum/)                                 | Minimum Path Sum                                 | medium     | [python](🤔medium/0064.Minimum-Path-Sum/minimum_path_sum.py)         |           |
 | [0067](https://leetcode.com/problems/add-binary/)                                 | Add Binary                                 | easy     | [python](🙂easy/0067.Add-Binary/add_binary.py)         |           |
 | [0070](https://leetcode.com/problems/climbing-stairs/description/)                           | Climbing Stairs                           | easy       | python         |           |
 | [0075](https://leetcode.com/problems/sort-colors/description/)                               | Sort Colors                               | medium     | python         |           |
