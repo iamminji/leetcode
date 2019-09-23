@@ -122,6 +122,7 @@
 | [0617](https://leetcode.com/problems/merge-two-binary-trees/)                                     | Merge Two Binary Trees                         | easy       | [python](🙂easy/0617.Merge-Two-Binary-Trees/merge_two_binary_trees.py)         |           |
 | [0621](https://leetcode.com/problems/task-scheduler/)                                     | Task Scheduler                         | medium       | [python](🤔medium/0621.Task-Scheduler/task_scheduler.py)         |           |
 | [0627](https://leetcode.com/problems/swap-salary/)                                     | Swap Salary                         | easy       | [sql](🙂easy/0627.Swap-Salary/swap_salary.sql)         |           |
+| [0637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)                                     |  Average of Levels in Binary Tree                        | easy       | [python](🙂easy/0637.Average-of-Levels-in-Binary-Tree/average_of_levels_in_binary_tree.py)         |           |
 | [0641](https://leetcode.com/problems/design-circular-deque/)                                 | Design Circular Deque                     | medium     | golang         |           |
 | [0643](https://leetcode.com/problems/maximum-average-subarray-i/#/description)               | Maximum Average Subarray I                | easy       | python         |           |
 | [0655](https://leetcode.com/problems/print-binary-tree/description/)                         | Print Binary Tree                         | medium     | python         |           |
