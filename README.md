@@ -126,6 +126,7 @@
 | [0641](https://leetcode.com/problems/design-circular-deque/)                                 | Design Circular Deque                     | medium     | golang         |           |
 | [0643](https://leetcode.com/problems/maximum-average-subarray-i/#/description)               | Maximum Average Subarray I                | easy       | python         |           |
 | [0655](https://leetcode.com/problems/print-binary-tree/description/)                         | Print Binary Tree                         | medium     | python         |           |
+| [0669](https://leetcode.com/problems/trim-a-binary-search-tree/)                         |Trim a Binary Search Tree                         | easy     | [python](🙂easy/0669.Trim-a-Binary-Search-Tree/trim_a_binary_search_tree.py)         |           |
 | [0670](https://leetcode.com/problems/maximum-swap/) | Maximum Swap | medium       | [python](🤔medium/0670.Maximum-Swap/maximum_swap.py)           |           |
 | [0671](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | Second Minimum Node In a Binary Tree | easy       | [python](🙂easy/0671.Second-Minimum-Node-In-a-Binary-Tree/second_minimum_node_In_a_binary_tree.py)           |           |
 | [0674](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | Longest Continuous Increasing Subsequence | easy       | java           |           |
