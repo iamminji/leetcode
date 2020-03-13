@@ -47,6 +47,7 @@
 | [0103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)  | Binary Tree Zigzag Level Order Traversal  | medium     | python         |           |
 | [0107](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)      | Binary Tree Level Order Traversal II      | easy       | python         |           |
 | [0111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)      |  Minimum Depth of Binary Tree      | easy       | [python](🙂easy/0111.Minimum-Depth-of-Binary-Tree/minimum_depth_of_binary_tree.py)         |    tree       |
+| [0114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)      |  Flatten Binary Tree to Linked List      | medium       | [python](🤔medium/0114.Flatten-Binary-Tree-to-Linked-List/flatten_binary_tree_to_linked_list.py)         |    tree, dfs       |
 | [0120](https://leetcode.com/problems/triangle/)         | Triangle        | medium       | [python](🤔medium/0120.Triangle/triangle.py)         |           |
 | [0121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | Best Time to Buy and Sell Stock        | easy       | [python](🙂easy/0121.Best-Time-to-Buy-and-Sell-Stock/best_time_to_buy_and_sell_stock.py)         |           |
 | [0122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description)         | Best Time to Buy and Sell Stock II        | easy       | python         |           |
