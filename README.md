@@ -28,7 +28,7 @@
 | [0039](https://leetcode.com/problems/combination-sum/)            | Combination Sum            | medium     | [python](🤔medium/0039.Combination-Sum/combination_sum.py)         |           |
 | [0046](https://leetcode.com/problems/permutations/)                                          | Permutations                              | medium     | golang         |           |
 | [0048](https://leetcode.com/problems/rotate-image/)                                          | Rotate Image                              | medium     | [python](🤔medium/0048.Rotate-Image/rotate_image.py)         |           |
-| [0049](https://leetcode.com/problems/group-anagrams/)                                          | Group Anagrams                              | medium     | [python](🤔medium/0048.Rotate-Image/rotate_image.py)         |           |
+| [0049](https://leetcode.com/problems/group-anagrams/)                                          | Group Anagrams                              | medium     | [python](🤔medium/0049.Group-Anagrams/group_anagrams.py)         |           |
 | [0051](https://leetcode.com/problems/n-queens/description/)                                  | N-Queens                                  | hard       | python         |           |
 | [0053](https://leetcode.com/problems/maximum-subarray/)                                  | Maximum Subarray                                  | easy       | [python](🙂easy/0053.Maximum-Subarray/maximum_subarray.py)         |           |
 | [0055](https://leetcode.com/problems/jump-game/description/)                                 | Jump Game                                 | medium     | golang         |           |
