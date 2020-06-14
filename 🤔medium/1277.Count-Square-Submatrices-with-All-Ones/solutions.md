@@ -23,23 +23,23 @@ matrix[i][j] 가 1이면 그 친구는 1x1 의 정사각형 밖에 될 수 없�
 ```python3
 class Solution:
     def countSquares(self, matrix: List[List[int]]) -> int:
-        // dp 2차원 배열 초기화
+        # dp 2차원 배열 초기화
         dp = [[0 for _ in range(len(matrix[0]))] for _ in range(len(matrix))]
 
-        // 0번째 row, 0번째 col 을 주어진 matrix 값으로 초기화
-        // 0번째 row, col 은 정사각형이 될 수 있는 경우의 수가 사이즈 1x1 정사각형 개수와 동일하다.
-        // 이렇게 한 이유는 2중 for-loop 를 돌 때 배열 범위를 넘기지 않게 하기 위해서이다. (밑에서 다시 설명)
+        # 0번째 row, 0번째 col 을 주어진 matrix 값으로 초기화
+        # 0번째 row, col 은 정사각형이 될 수 있는 경우의 수가 사이즈 1x1 정사각형 개수와 동일하다.
+        # 이렇게 한 이유는 2중 for-loop 를 돌 때 배열 범위를 넘기지 않게 하기 위해서이다. (밑에서 다시 설명)
         dp[0] = matrix[0]
         for i in range(0, len(matrix)):
             dp[i][0] = matrix[i][0]
 
-        // 1,1 부터 시작한다. 위에서 0 번째 row, 0 번째 col 계산을 했기 떄문에 1,1 부터 시작해도 된다.
+        # 1,1 부터 시작한다. 위에서 0 번째 row, 0 번째 col 계산을 했기 떄문에 1,1 부터 시작해도 된다.
         for i in range(1, len(matrix)):
             for j in range(1, len(matrix[0])):
                 if matrix[i][j] == 0:
                     continue
-                // 여기서 배열 index 범위를 넘기는 예외 처리를 하지 않기 위해서 위에서 0 을 계산해 주고
-                // 1,1 부터 for-loop 를 돈 것이다.
+                # 여기서 배열 index 범위를 넘기는 예외 처리를 하지 않기 위해서 위에서 0 을 계산해 주고
+                # 1,1 부터 for-loop 를 돈 것이다.
                 dp[i][j] = min(dp[i - 1][j - 1], dp[i - 1][j], dp[i][j - 1]) + matrix[i][j]
 
         result = 0
