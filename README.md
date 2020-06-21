@@ -58,7 +58,9 @@
 | [0139](https://leetcode.com/problems/word-break/description/)                                | Word Break                                | medium     | python         |           |
 | [0141](https://leetcode.com/problems/linked-list-cycle/description)                          | Linked List Cycle                         | easy       | python         |           |
 | [0155](https://leetcode.com/problems/min-stack/)                          | Min Stack                         | easy       | [python](🙂easy/0155.Min-Stack/min_stack.py)         |           |
+| [0168](https://leetcode.com/problems/excel-sheet-column-title/)                          | Excel Sheet Column Title                          | easy       | [python](🙂easy/0168.Excel-Sheet-Column-Title/excel_sheet_column_title.py)         |           |
 | [0169](https://leetcode.com/problems/majority-element/description/)                          | Majority Element                          | easy       | python         |           |
+| [0171](https://leetcode.com/problems/excel-sheet-column-number/)                          | Excel Sheet Column Number                          | easy       | [python](🙂easy/0171.Excel-Sheet-Column-Number/excel_sheet_column_number.py)         |           |
 | [0179](https://leetcode.com/problems/largest-number/description/)                            | Largest Number                            | medium     | python         |           |
 | [0182](https://leetcode.com/problems/duplicate-emails/)                            | Duplicate Emails                            | easy     | [sql](🙂easy/0182.Duplicate-Emails/duplicate_emails.sql)         |           |
 | [0189](https://leetcode.com/problems/rotate-array/)                            | Rotate Array                            | easy     | [python](🙂easy/0189.Rotate-Array/rotate_array.py)         |           |
