@@ -109,7 +109,7 @@
 | [0495](https://leetcode.com/problems/teemo-attacking/description/)                           | Teemo Attacking                           | medium     | python         |           |
 | [0500](https://leetcode.com/problems/keyboard-row/)                       | Keyboard Row           | easy       | [python](🙂easy/0500.Keyboard-Row/keyboard_row.py)         |           |
 | [0501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)                       | Find Mode in Binary Search Tree           | easy       | python         |           |
-| [0503](https://leetcode.com/problems/next-greater-element-ii/)                               | Next Greater Element II                   | medium     | python, java   |           |
+| [0503](https://leetcode.com/problems/next-greater-element-ii/)                               | Next Greater Element II                   | medium     | [python](🤔medium/0503.Next-Greater-Element-II/next_greater_element_II.py)   |           |
 | [0508](https://leetcode.com/problems/most-frequent-subtree-sum/)                             | Most Frequent Subtree Sum                 | medium     | python         |           |
 | [0509](https://leetcode.com/problems/fibonacci-number/)                             | Fibonacci Number                 | easy     | [python](🙂easy/0509.Fibonacci-Number/fibonacci_number.py)         |           |
 | [0513](https://leetcode.com/problems/find-bottom-left-tree-value/)                             | Find Bottom Left Tree Value                 | medium     | [python](🤔medium/0513.Find-Bottom-Left-Tree-Value/find_bottom_left_tree_value.py)         |           |
