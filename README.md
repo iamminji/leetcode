@@ -66,6 +66,7 @@
 | [0189](https://leetcode.com/problems/rotate-array/)                            | Rotate Array                            | easy     | [python](🙂easy/0189.Rotate-Array/rotate_array.py)         |           |
 | [0199](https://leetcode.com/problems/binary-tree-right-side-view/description/)               | Binary Tree Right Side View               | medium     | python         |           |
 | [0200](https://leetcode.com/problems/number-of-islands/description/)                         | Number of Islands                         | medium     | java           |           |
+| [0202](https://leetcode.com/problems/happy-number/)                         | Happy Number                         | easy     | [python](🙂easy/0202.Happy-Number/happy_number.py)           |           |
 | [0203](https://leetcode.com/problems/remove-linked-list-elements/)                         | Remove Linked List Elements                         | easy     | [python](🙂easy/0203.Remove-Linked-List-Elements/remove_linked_list_elements.py)           |           |
 | [0205](https://leetcode.com/problems/isomorphic-strings/)                       | Isomorphic Strings                       | easy       | [python](🙂easy/0205.Isomorphic-Strings/isomorphic_strings.py)         |           |
 | [0206](https://leetcode.com/problems/reverse-linked-list/description/)                       | Reverse Linked List                       | easy       | python         |           |
