@@ -79,6 +79,7 @@
 | [0242](https://leetcode.com/problems/valid-anagram/description/)                             | Valid Anagram                             | easy       | python         |           |
 | [0257](https://leetcode.com/problems/binary-tree-paths/)                             | Binary Tree Paths                             | easy       | [python](🙂easy/0257.Binary-Tree-Paths/binary_tree_paths.py)         |           |
 | [0279](https://leetcode.com/problems/perfect-squares/)                             | Perfect Squares                             | medium       | [python](🤔medium/0279.Perfect-Squares/perfect_squares.py)         |           |
+| [0287](https://leetcode.com/problems/find-the-duplicate-number/)                             | Find the Duplicate Number                             | medium       | [python](🤔medium/0287.Find-the-Duplicate-Number/find_the_duplicate_number.py)         |           |
 | [0290](https://leetcode.com/problems/word-pattern/)                             | Word Pattern                             | easy       | [python](🙂easy/0290.Word-Pattern/word_pattern.py)         |           |
 | [0322](https://leetcode.com/problems/coin-change/)                            | Coin Change                            | medium     | [python](🤔medium/0322.Coin-Change/coin_change.py)         |    dp       |
 | [0324](https://leetcode.com/problems/wiggle-sort-ii/description/)                            | Wiggle Sort II                            | medium     | python         |           |
@@ -100,6 +101,7 @@
 | [0443](https://leetcode.com/problems/string-compression/)                                    | String Compression                        | easy       | golang         |           |
 | [0447](https://leetcode.com/problems/number-of-boomerangs/)                                  | Number of Boomerangs                      | easy       | python         |           |
 | [0448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)  | Find All Numbers Disappeared in an Array  | easy       | python         |           |
+| [0451](https://leetcode.com/problems/sort-characters-by-frequency/)                                        | Sort Characters By Frequency                            | medium       | [python](🤔medium/0451.Sort-Characters-By-Frequency/sort_characters_by_frequency.py)         |           |
 | [0454](https://leetcode.com/problems/4sum-ii/)                                        | 4Sum II                            | medium       | [python](🤔medium/0454.4Sum-II/four_sum_II.py)         |           |
 | [0455](https://leetcode.com/problems/assign-cookies/)                                        | Assign Cookies                            | easy       | python         |           |
 | [0457](https://leetcode.com/problems/circular-array-loop/)                                   | Circular Array Loop                       | medium     | python         |           |
