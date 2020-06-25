@@ -32,7 +32,7 @@ class Solution:
 
 > 파이썬의 `heap` 자료구조는 기본이 min-heap 이다. 따라서 max-heap 처럼 사용하고 싶으면 -1 을 곱해주는 식으로 사용하면 된다.
 
-```pytho3
+```python3
 from heapq import heappop, heappush
 from collections import Counter
 
