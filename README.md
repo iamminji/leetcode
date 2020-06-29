@@ -151,6 +151,7 @@
 | [0701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                                    | Insert into a Binary Search Tree                        | medium       | [python](🤔medium/0701.Insert-into-a-Binary-Search-Tree/insert_into_a_binary_search_tree.py)         |           |
 | [0704](https://leetcode.com/problems/binary-search/)                                    | Binary Search                        | easy       | [python](🙂easy/0704.Binary-Search/binary_search.py)         |           |
 | [0705](https://leetcode.com/problems/design-hashset/)                                    | Design HashSet                        | easy       | [python](🙂easy/0705.Design-HashSet/design_hashSet.py)         |           |
+| [0706](https://leetcode.com/problems/design-hashmap/)                                    | Design HashMap                        | easy       | [python](🙂easy/0706.Design-HashMap/design_hashMap.py)         |           |
 | [0707](https://leetcode.com/problems/design-linked-list/)                                    | Design Linked List                        | easy       | golang         |           |
 | [0709](https://leetcode.com/problems/to-lower-case/description/)                             | To Lower Case                             | easy       | golang         |           |
 | [0711](https://leetcode.com/problems/jewels-and-stones/)                             | Jewels and Stones                             | easy       | [java](🙂easy/0711.Jewels-and-Stones/Solution.java)         |           |
