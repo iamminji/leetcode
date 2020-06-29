@@ -72,3 +72,15 @@ else:
     # update 를 안하고 Node(key, value) 로 엎어치고 있었다. 테스트 케이스 찾느라고 혼났다ㅜ
     prev.next.value = value
 ```
+
+## 주저리
+실패 이유를 찾을 수가 없어서, wrong answer 예제를 뜯어보았는데 input 값이 너무 많고 복잡하였다.
+이 값을 로컬 ide 에서 돌리게 변경하는 것은... 엄청난 노가다가 예상되는 문제.
+
+그래서 어떻게 했냐면...
+실패난 input 값으로 leetcode runcode 로 돌리고 결과 값으로 leetcode 서버가 뱉어주는 json 을 살펴봤는데 expected_answer 랑 code_answer 인가 값이 있더라.
+이 값을 전체 복사해서 online 에서 text diff 해주는 거 아무 사이트나 들어가서 돌려주었다.
+
+그랬더니 틀린 부분만 딱 체크 해서 보여주더라.
+
+원래 leetcode 에서도 제공하는 기능인데 값이 너무 많다보니....스크롤 넘기는데 한계가 있었다ㅜ

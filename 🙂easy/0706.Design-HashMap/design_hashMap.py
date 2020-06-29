@@ -18,7 +18,7 @@ class MyHashMap:
         """
         Initialize your data structure here.
         """
-        self.size = 10
+        self.size = 10000
         self.buckets = [Node() for _ in range(self.size)]
 
     def find_node(self, key: int):
@@ -63,7 +63,6 @@ class MyHashMap:
             prev.next = prev.next.next
 
 
-
 if __name__ == '__main__':
     # Your MyHashMap object will be instantiated and called as such:
     hashMap = MyHashMap()
@@ -78,5 +77,3 @@ if __name__ == '__main__':
     print(hashMap.put(12, 32))
     print(hashMap.get(12))
     print(hashMap.get(102))
-
-
