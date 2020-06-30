@@ -57,6 +57,7 @@
 | [0125](https://leetcode.com/problems/valid-palindrome/)         | Valid Palindrome        | easy       | [python]()         |           |
 | [0139](https://leetcode.com/problems/word-break/description/)                                | Word Break                                | medium     | python         |           |
 | [0141](https://leetcode.com/problems/linked-list-cycle/description)                          | Linked List Cycle                         | easy       | python         |           |
+| [0148](https://leetcode.com/problems/sort-list/)                          | Sort List                         | medium       | [python](🤔medium/0148.Sort-List/sort_list.py) [solution](🤔medium/0148.Sort-List/solutions.md)         |           |
 | [0155](https://leetcode.com/problems/min-stack/)                          | Min Stack                         | easy       | [python](🙂easy/0155.Min-Stack/min_stack.py)         |           |
 | [0162](https://leetcode.com/problems/find-peak-element/)                          | Find Peak Element                         | medium       | [python](🤔medium/0162.Find-Peak-Element/find_peak_element.py)         |           |
 | [0168](https://leetcode.com/problems/excel-sheet-column-title/)                          | Excel Sheet Column Title                          | easy       | [python](🙂easy/0168.Excel-Sheet-Column-Title/excel_sheet_column_title.py)         |           |
