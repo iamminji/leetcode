@@ -20,7 +20,7 @@
 | [0017](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                          | Letter Combinations of a Phone Number                          | medium       | [python](🤔medium/0017.Letter-Combinations-of-a-Phone-Number/letter_combinations_of_a_phone_number.py)         |           |
 | [0019](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                          | Remove Nth Node From End of List                          | medium       | [python](🤔medium/0019.Remove-Nth-Node-From-End-of-List/remove_nth_node_from_end_of_list.py)         |           |
 | [0020](https://leetcode.com/problems/valid-parentheses/description/)                         | Valid Parentheses                         | easy       | python         |           |
-| [0021](https://leetcode.com/problems/merge-two-sorted-lists/description/)                    | Merge Two Sorted Lists                    | easy       | python         |           |
+| [0021](https://leetcode.com/problems/merge-two-sorted-lists/description/)                    | Merge Two Sorted Lists                    | easy       | [python-1](🙂easy/0021.Merge-Two-Sorted-Lists/merge_two_sorted_lists.py), [python-2](🙂easy/0021.Merge-Two-Sorted-Lists/merge_two_sorted_lists_2.py)         |           |
 | [0022](https://leetcode.com/problems/generate-parentheses/description/)                      | Generate Parentheses                      | medium     | python         |           |
 | [0026](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)       | Remove Duplicates from Sorted Array       | easy       | python         |           |
 | [0033](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)            | Search in Rotated Sorted Array            | medium     | python         |           |
@@ -57,7 +57,7 @@
 | [0125](https://leetcode.com/problems/valid-palindrome/)         | Valid Palindrome        | easy       | [python]()         |           |
 | [0139](https://leetcode.com/problems/word-break/description/)                                | Word Break                                | medium     | python         |           |
 | [0141](https://leetcode.com/problems/linked-list-cycle/description)                          | Linked List Cycle                         | easy       | python         |           |
-| [0148](https://leetcode.com/problems/sort-list/)                          | Sort List                         | medium       | [python](🤔medium/0148.Sort-List/sort_list.py) [solution](🤔medium/0148.Sort-List/solutions.md)         |           |
+| [0148](https://leetcode.com/problems/sort-list/)                          | Sort List                         | medium       | [python](🤔medium/0148.Sort-List/sort_list.py)        |           |
 | [0155](https://leetcode.com/problems/min-stack/)                          | Min Stack                         | easy       | [python](🙂easy/0155.Min-Stack/min_stack.py)         |           |
 | [0162](https://leetcode.com/problems/find-peak-element/)                          | Find Peak Element                         | medium       | [python](🤔medium/0162.Find-Peak-Element/find_peak_element.py)         |           |
 | [0168](https://leetcode.com/problems/excel-sheet-column-title/)                          | Excel Sheet Column Title                          | easy       | [python](🙂easy/0168.Excel-Sheet-Column-Title/excel_sheet_column_title.py)         |           |
