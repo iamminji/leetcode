@@ -21,6 +21,9 @@ class Solution:
             cells[0] = 0
             cells[7] = 0
 
+        if N % 14 == 0:
+            return result[14]
+
         return result[N % 14]
 
 
