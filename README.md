@@ -4,6 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
+## Problems
 | #                                                                                            | title                                     | difficulty | languages      |    tag    |
 |----------------------------------------------------------------------------------------------|-------------------------------------------|------------|----------------|-----------|
 | [0001](https://leetcode.com/problems/two-sum/)                                               | Two Sum                                   | easy       | python, [java](🙂easy/0001.Two-Sum/Solution.java)         |           |
@@ -217,3 +218,12 @@
 | [1200](https://leetcode.com/problems/minimum-absolute-difference/)                             | Minimum Absolute Difference                | easy       | [python](🙂easy/1200.Minimum-Absolute-Difference/minimum_absolute_difference.py)        |           |
 | [1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)                             | Count Square Submatrices with All Ones                | medium       | [python](🤔medium/1277.Count-Square-Submatrices-with-All-Ones/count_square_submatrices_with_all_ones.py)        |           |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)                             | Number of Steps to Reduce a Number to Zero                | easy       | [python](🙂easy/1200.Minimum-Absolute-Difference/minimum_absolute_difference.py)        |           |
+
+## Challenge
+### 2020 July
+| title      | code | solutions      |
+|------------------------------------------------------|------------|----------------|
+| [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)      | [python](challenge/montly/july/Arranging_Coins.py)  | [solutions](challenge/montly/july/Arranging_Coins.md)|
+| [Binary Tree Level Order Traversal II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/)      | [python](challenge/montly/july/Binary_Tree_Level_Order_Traversal_II.py)  | [solutions](challenge/montly/july/Binary_Tree_Level_Order_Traversal_II.md)|
+| [Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)      | [python](challenge/montly/july/Prison_Cells_After_N_Days.py)  | [solutions](challenge/montly/july/Prison_Cells_After_N_Days.md)|
+| [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)      | [python](challenge/montly/july/Ugly_Number_II.py)  | [solutions](challenge/montly/july/Ugly_Number_II.md)|
