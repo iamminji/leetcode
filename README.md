@@ -224,7 +224,7 @@
 ### 2020 July
 | title      | code | solutions      |
 |------------------------------------------------------|------------|----------------|
-| [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)      | [python](challenge/montly/july/Arranging_Coins.py)  | [solutions](challenge/montly/july/Arranging_Coins.md)|
-| [Binary Tree Level Order Traversal II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/)      | [python](challenge/montly/july/Binary_Tree_Level_Order_Traversal_II.py)  | [solutions](challenge/montly/july/Binary_Tree_Level_Order_Traversal_II.md)|
-| [Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)      | [python](challenge/montly/july/Prison_Cells_After_N_Days.py)  | [solutions](challenge/montly/july/Prison_Cells_After_N_Days.md)|
-| [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)      | [python](challenge/montly/july/Ugly_Number_II.py)  | [solutions](challenge/montly/july/Ugly_Number_II.md)|
+| [Arranging Coins](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)      | [python](challenge/2020/july/Arranging_Coins.py)  | [solutions](challenge/2020/july/Arranging_Coins.md)|
+| [Binary Tree Level Order Traversal II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/)      | [python](challenge/2020/july/Binary_Tree_Level_Order_Traversal_II.py)  | [solutions](challenge/2020/july/Binary_Tree_Level_Order_Traversal_II.md)|
+| [Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)      | [python](challenge/2020/july/Prison_Cells_After_N_Days.py)  | [solutions](challenge/2020/july/Prison_Cells_After_N_Days.md)|
+| [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)      | [python](challenge/2020/july/Ugly_Number_II.py)  | [solutions](challenge/2020/july/Ugly_Number_II.md)|
