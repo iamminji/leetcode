@@ -82,6 +82,7 @@
 | [0238](https://leetcode.com/problems/product-of-array-except-self/description/)              | Product of Array Except Self              | medium     | python         |           |
 | [0242](https://leetcode.com/problems/valid-anagram/description/)                             | Valid Anagram                             | easy       | python         |           |
 | [0257](https://leetcode.com/problems/binary-tree-paths/)                             | Binary Tree Paths                             | easy       | [python](🙂easy/0257.Binary-Tree-Paths/binary_tree_paths.py)         |           |
+| [0263](https://leetcode.com/problems/ugly-number/)                             | Ugly Number                             | easy       | [python](🙂easy/0263.Ugly-Number/ugly_number.py)         |           |
 | [0279](https://leetcode.com/problems/perfect-squares/)                             | Perfect Squares                             | medium       | [python](🤔medium/0279.Perfect-Squares/perfect_squares.py)         |           |
 | [0287](https://leetcode.com/problems/find-the-duplicate-number/)                             | Find the Duplicate Number                             | medium       | [python](🤔medium/0287.Find-the-Duplicate-Number/find_the_duplicate_number.py)         |           |
 | [0290](https://leetcode.com/problems/word-pattern/)                             | Word Pattern                             | easy       | [python](🙂easy/0290.Word-Pattern/word_pattern.py)         |           |
