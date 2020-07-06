@@ -229,3 +229,4 @@
 | [Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)      | [python](challenge/2020/july/Prison_Cells_After_N_Days.py)  | [solutions](challenge/2020/july/Prison_Cells_After_N_Days.md)|
 | [Ugly Number II](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)      | [python](challenge/2020/july/Ugly_Number_II.py)  | [solutions](challenge/2020/july/Ugly_Number_II.md)|
 | [Hamming Distance](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/)      | [python](challenge/2020/july/Hamming_Distance.py)  | [solutions](challenge/2020/july/Hamming_Distance.md)|
+| [Plus One](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)      | [python](challenge/2020/july/Plus_One.py)  | [solutions](challenge/2020/july/Plus_One.md)|
