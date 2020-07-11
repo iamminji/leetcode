@@ -1,7 +1,7 @@
 ## 문제
 
 doubly linked list 를 flatten 하게 만드는 문제다.
-다만 일만 linked list 랑 다르게 child 가 있고, 이 child 의 우선순위가 더 높아야 한다(?) 는 것이다.
+다만 일반 linked list 랑 다르게 child 가 있고, 이 child 의 우선순위가 더 높아야 한다(?) 는 것이다.
 
 ### 솔루션
 child 가 먼저 선행 되어야 하기 때문에 depth 를 두고, queue 를 heap 으로 써서(child 를 queue 에서 먼저 꺼내려고) bfs 로 풀었다.
