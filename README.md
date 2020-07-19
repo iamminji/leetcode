@@ -234,3 +234,4 @@
 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)      | [python](challenge/2020/july/Flatten_a_Multilevel_Doubly_Linked_List.py)  | [solutions](challenge/2020/july/Flatten_a_Multilevel_Doubly_Linked_List.md)|
 | [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)      | [python](challenge/2020/july/Same_Tree.py)  |  |
 | [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)      | [python](challenge/2020/july/3Sum.py)  | [solutions](challenge/2020/july/3Sum.md)|
+| [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)      | [python](challenge/2020/july/Add_Binary.py)  | [solution](challenge/2020/july/Add_Binary.md) |
