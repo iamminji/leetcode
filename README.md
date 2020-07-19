@@ -218,6 +218,7 @@
 | [1200](https://leetcode.com/problems/minimum-absolute-difference/)                             | Minimum Absolute Difference                | easy       | [python](🙂easy/1200.Minimum-Absolute-Difference/minimum_absolute_difference.py)        |           |
 | [1277](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)                             | Count Square Submatrices with All Ones                | medium       | [python](🤔medium/1277.Count-Square-Submatrices-with-All-Ones/count_square_submatrices_with_all_ones.py)        |           |
 | [1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)                             | Number of Steps to Reduce a Number to Zero                | easy       | [python](🙂easy/1200.Minimum-Absolute-Difference/minimum_absolute_difference.py)        |           |
+| [1372](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/)                             | Longest ZigZag Path in a Binary Tree                | medium       | [python](🤔medium/1372.Longest-ZigZag-Path-in-a-Binary-Tree/longest_zigZag_path_in_a_binary_tree.py)        |           |
 
 ## Challenge
 ### 2020 July
@@ -232,3 +233,4 @@
 | [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)      | [python](challenge/2020/july/Island_Perimeter.py)  | [solutions](challenge/2020/july/Island_Perimeter.md)|
 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)      | [python](challenge/2020/july/Flatten_a_Multilevel_Doubly_Linked_List.py)  | [solutions](challenge/2020/july/Flatten_a_Multilevel_Doubly_Linked_List.md)|
 | [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)      | [python](challenge/2020/july/Same_Tree.py)  |  |
+| [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)      | [python](challenge/2020/july/3Sum.py)  | [solutions](challenge/2020/july/3Sum.md)|
