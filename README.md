@@ -235,3 +235,6 @@
 | [Same Tree](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)      | [python](challenge/2020/july/Same_Tree.py)  |  |
 | [3Sum](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)      | [python](challenge/2020/july/3Sum.py)  | [solutions](challenge/2020/july/3Sum.md)|
 | [Add Binary](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)      | [python](challenge/2020/july/Add_Binary.py)  | [solution](challenge/2020/july/Add_Binary.md) |
+| [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/)      | [python](challenge/2020/july/Subsets.py)  |  |
+| [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)      | [python](challenge/2020/july/Reverse_Words_in_a_String.py)  |  |
+| [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)      | [python](challenge/2020/july/Top_K_Frequent_Elements.py)  |  |
