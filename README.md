@@ -238,3 +238,4 @@
 | [Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/)      | [python](challenge/2020/july/Subsets.py)  |  |
 | [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)      | [python](challenge/2020/july/Reverse_Words_in_a_String.py)  |  |
 | [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)      | [python](challenge/2020/july/Top_K_Frequent_Elements.py)  |  |
+| [Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)      | [python](challenge/2020/july/Remove_Linked_List_Elements.py)  |  |
