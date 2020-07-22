@@ -239,3 +239,4 @@
 | [Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)      | [python](challenge/2020/july/Reverse_Words_in_a_String.py)  |  |
 | [Top K Frequent Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)      | [python](challenge/2020/july/Top_K_Frequent_Elements.py)  |  |
 | [Remove Linked List Elements](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)      | [python](challenge/2020/july/Remove_Linked_List_Elements.py)  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)      | [python](challenge/2020/july/Binary_Tree_Zigzag_Level_Order_Traversal.py)  |  |
