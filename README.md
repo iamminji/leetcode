@@ -77,6 +77,7 @@
 | [0226](https://leetcode.com/problems/invert-binary-tree/description/)                        | Invert Binary Tree                        | easy       | python         |           |
 | [0229](https://leetcode.com/problems/majority-element-ii/description/)                       | Majority Element II                       | medium     | python         |           |
 | [0231](https://leetcode.com/problems/power-of-two/)              | Power of Two              | easy     | [python](🙂easy/0231.Power-of-Two/power_of_two.py)         |           |
+| [0232](https://leetcode.com/problems/implement-queue-using-stacks/)              | Implement Queue using Stacks              | easy     | [python](🙂easy/0232.Implement-Queue-using-Stacks/implement_queue_using_stacks.py)         |           |
 | [0238](https://leetcode.com/problems/product-of-array-except-self/description/)              | Product of Array Except Self              | medium     | python         |           |
 | [0242](https://leetcode.com/problems/valid-anagram/description/)                             | Valid Anagram                             | easy       | python         |           |
 | [0257](https://leetcode.com/problems/binary-tree-paths/)                             | Binary Tree Paths                             | easy       | [python](🙂easy/0257.Binary-Tree-Paths/binary_tree_paths.py)         |           |
