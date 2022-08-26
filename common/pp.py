@@ -1,11 +1,5 @@
 from collections import deque
-
-
-# class TreeNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
+from common.leetcodeds import *
 
 
 class FullBinaryTreeNodePrettyPrinter:
@@ -18,7 +12,7 @@ class FullBinaryTreeNodePrettyPrinter:
     """
 
     @classmethod
-    def pp(cls, node):
+    def pp(cls, node: TreeNode):
         queue = deque()
         queue.append(node)
         ans = []
@@ -31,4 +25,29 @@ class FullBinaryTreeNodePrettyPrinter:
                 queue.append(n.right)
             else:
                 ans.append(None)
-        return ans
+        print(ans)
+
+
+def list_to_ListNode(l: list) -> ListNode:
+    dummy = start = ListNode()
+    for val in l:
+        start.next = ListNode(val)
+        start = start.next
+
+    return dummy.next
+
+
+if __name__ == '__main__':
+    sample = TreeNode(1)
+    sample.left = TreeNode(2)
+    sample.right = TreeNode(3)
+    sample.left.left = TreeNode(5)
+    sample.right.right = TreeNode(7)
+
+    # [1, 2, 3, 5, None, None, 7]
+    FullBinaryTreeNodePrettyPrinter.pp(sample)
+
+    sample1 = list_to_ListNode([1, 2, 3, 4, 5])
+    while sample1 is not None:
+        print(sample1.val)
+        sample1 = sample1.next
