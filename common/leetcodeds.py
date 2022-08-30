@@ -9,3 +9,9 @@ class TreeNode:
         self.val = x
         self.left = None
         self.right = None
+
+
+class Node:
+    def __init__(self, val=None, children=None):
+        self.val = val
+        self.children = children

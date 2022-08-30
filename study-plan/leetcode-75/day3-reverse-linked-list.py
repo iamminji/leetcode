@@ -2,16 +2,7 @@
 # 206. Reverse Linked List
 
 from typing import Optional
-
-
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-
-    def __str__(self) -> str:
-        return str(self.val)
+from common.leetcodeds import ListNode
 
 
 class Solution:
@@ -34,8 +25,16 @@ class Solution:
         return dummy.next
 
     def reverseList_2(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # TODO stack 사용 없이 풀어보기
-        pass
+        if head is None:
+            return None
+
+        prev, cur = None, head
+        while head is not None:
+            head = head.next
+            cur.next = prev
+            prev = cur
+            cur = head
+        return prev
 
 
 if __name__ == '__main__':
