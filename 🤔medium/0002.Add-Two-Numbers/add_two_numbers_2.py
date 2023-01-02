@@ -3,6 +3,7 @@
 
 from typing import Optional
 
+
 # Definition for singly-linked list.
 class ListNode:
     def __init__(self, x):
@@ -19,8 +20,8 @@ class Solution:
             lv1 = l1.val if l1 is not None else 0
             lv2 = l2.val if l2 is not None else 0
 
-            r = (lv1 + lv2 + c) % 10
-            c = (lv1 + lv2 + c) // 10
+            v = lv1 + lv2 + c
+            c, r = v // 10, v % 10
 
             dummy.next = ListNode(r)
 
