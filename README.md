@@ -2,6 +2,8 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
+> 🫠 NO MORE UPDATE README.md
+
 ## Problems
 
 | #                                                                                               | title                                                    | difficulty | languages                                                                                                                                                                                                    |    tag    |
